@@ -1,0 +1,152 @@
+aruoinis, neutral male human Archeologist
+                                                                               
+                                                                               
+    -------     ----------              ------                                 
+    |.....|    *.........|             #-....|                                 
+    |......#   #|.........##############|....-#                                
+    |..{..|#   #|..`..<..|           # #------#                                
+    -------#   #|....%...-#        ### #      #                                
+           #   #----|-----#        #   #      #                                
+           # ###    ##    ###    ###   #      #                                
+           # #       #      #    #     #      #                                
+           ###       ###    #`##########      #                                
+           #           #      ##-------#      #                                
+          ## ############     ##@.....|#      #                                
+  -.--+-   # #----------.-      |.....|###########                             
+  |....-######|..........|      |......#     #---.-                            
+  |....|   ###|..........|      -------      #....+                            
+  |....|     #...........|                    |{..|                            
+  |....|      ------------                    .(..|                            
+  |...>.                                      -----                            
+  ------                                                                       
+                                                                               
+aruoinis the Digger
+  Experience level: 1
+  Strength: 11
+  Dexterity: 11
+  Constitution: 13
+  Intelligence: 16
+  Wisdom: 14
+  Charisma: 10
+  Health: 13(13)
+  Energy: 2(2)
+  Def: 1
+  Gold: 312
+  Moves: 598
+
+Dungeon seed: XAxBhSafymVfajsX
+Game ID: aruoinis_1437499542
+
+Your Inventory:
+  Coins
+  $ - 312 gold pieces
+  Weapons
+  a - a +2 bullwhip (weapon in hand)
+  Armor
+  e - an uncursed +0 leather jacket (being worn)
+  n - an uncursed +0 fedora (being worn)
+  Comestibles
+  b - 4 uncursed food rations
+  Scrolls
+  g - an uncursed scroll of teleportation
+  m - an uncursed scroll of confuse monster
+  Spellbooks
+  h - an uncursed spellbook of clairvoyance
+  j - an uncursed spellbook of sleep
+  o - an uncursed spellbook of haste self
+  Potions
+  k - an uncursed potion of speed
+  l - a potion of holy water
+  Tools
+  c - a +0 pick-axe
+  d - a tinning kit (0:78)
+  f - an uncursed sack
+  Gems
+  q - an uncursed touchstone
+
+Spells known in the end:
+  Name             Level  Category        Fail     Memory
+  a - clairvoyance     3      divination      100%     98%   
+  b - sleep            1      enchantment     2%       98%   
+  c - haste self       3      escape          100%     100%  
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   pick-axe [Basic]
+   whip     [Basic]
+  Spellcasting Skills
+
+Final Attributes:
+  You were fervently aligned.
+  You were stealthy.         
+  You were fast.             
+  You survived.              
+
+Vanquished creatures:
+  a jackal                
+  2 goblins               
+  4 sewer rats            
+  a grid bug              
+  a lichen                
+  2 newts                 
+                          
+  11 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                   
+  You were an atheist.                                     
+  You used a wielded weapon 11 times, starting on turn 27. 
+  You read items or engraved 28 times, starting on turn 16.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You wrote Elbereth's name 13 times, starting on turn 530.
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                 
+        a long staircase  
+  Level 2 <- You were here
+        some fountains    
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:246 you reached level 2 of The Dungeons of Doom.                    
+
+Score breakdown:
+  Gold:                   312                    ( 8488 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              2 levels   (  4.44%) ( 4522 points)
+  Discoveries:              3 items    (  1.01%) ( 3010 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         6 monsters (  1.57%) ( 3764 points)
+  Time penalty:           598 turns              (    0 points)
+  Survival:              quit  (score multiplied by  90%)      
+                                                               
+  Total score:                                    17805        
+
+Latest messages:
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  The sack is empty.
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye aruoinis the Archeologist, quit...                            
+                                                                        
+  You quit in The Dungeons of Doom on dungeon level 2 with 17805 points,
+  and 312 pieces of gold, after 598 moves.                              
+  You were level 1 with a maximum of 13 hit points when you quit.       
+                                                                        
+

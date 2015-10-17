@@ -1,0 +1,152 @@
+Loftniht, chaotic male elven Wizard
+                                                                               
+                                                                               
+   ------                                     -----    -----------             
+   |.....#                                    |...|  ##..........|             
+   |....|#                                    +..(|  # |.........|             
+   |....|#                                    |...|####|.........|             
+   -.----#      #                             -.---#   |.........|             
+    #    #    --|---                           # ###   -----.-----             
+    #    ###  |....|                           #   #        #########          
+    #      #  |....|                           #   #                #          
+    #      ###|.....                           #   #                ###        
+  --|----    #....@|                           ### #                  #        
+  |.....|     ---|--##%###################################%####*      ##       
+  |.....-##      ####                         ---|-#      -----.-------.-      
+  |.....|                                     |....#      |.............|      
+  -------                                     |...|       |.............|      
+                                              |..%|       |.............|      
+                                              |...|       |.............|      
+                                              |...|       |.............|      
+                                              -----       --------.------      
+                                                                  #            
+Loftniht the Evoker
+  Experience level: 2
+  Strength: 12
+  Dexterity: 14
+  Constitution: 12
+  Intelligence: 17
+  Wisdom: 11
+  Charisma: 11
+  Health: 19(19)
+  Energy: 25(25)
+  Def: 1
+  Gold: 91
+  Moves: 917
+
+Dungeon seed: xX_9guwJT6UhhWLX
+Game ID: Loftniht_1435853325
+
+Your Inventory:
+  Coins
+  $ - 91 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of enchant weapon
+  j - an uncursed scroll of enchant armor
+  k - an uncursed scroll of identify
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of remove curse
+  Potions
+  f - an uncursed potion of sleeping
+  g - a blessed potion of gain energy
+  h - an uncursed potion of object detection
+  Rings
+  c - an uncursed ring of fire resistance
+  d - an uncursed ring of teleport control
+  Wands
+  b - a wand of fire (0:7)
+  p - a wand of cold (0:4)
+  Tools
+  n - an uncursed blindfold
+  o - an uncursed leather drum
+
+Spells known in the end:
+  Name             Level  Category     Fail    Memory
+  a - force bolt       1      attack       0%      96%   
+  b - remove curse     3      clerical     99%     96%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You were lucky.          
+  You survived.            
+
+Vanquished creatures:
+  4 jackals               
+  a goblin                
+  a grid bug              
+  3 lichens               
+  4 newts                 
+                          
+  13 creatures vanquished.
+
+Voluntary challenges:
+  You followed a strict vegan diet.                       
+  You were an atheist.                                    
+  You used a wielded weapon 13 times, starting on turn 43.
+  You were illiterate.                                    
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You never wrote Elbereth's name.                        
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a fountain        
+        a long staircase  
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:666 you advanced to experience level 2.                             
+
+Score breakdown:
+  Gold:                    91                    ( 6680 points)
+  Experience:               2 levels             ( 5570 points)
+  Exploration:              1 level    (  2.00%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value:          0                    (    0 points)
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         5 monsters (  1.31%) ( 3436 points)
+  Time penalty:           917 turns              (    0 points)
+  Survival:          survived  (score multiplied by 100%)      
+                                                               
+  Total score:                                    15686        
+
+Latest messages:
+  <Beware, there will be no return! Still climb? [yn]: y>
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Loftniht the Wizard, escaped...                           
+                                                                    
+  You escaped from the dungeon with 15686 points,                   
+  and 91 pieces of gold, after 917 moves.                           
+  You were level 2 with a maximum of 19 hit points when you escaped.
+                                                                    
+

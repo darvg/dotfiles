@@ -1,0 +1,168 @@
+rduytr, chaotic male elven Wizard
+                                                                               
+                              --------------                                   
+                  ------      |............|                                   
+      ------      |.>..| ###%#.............|                                   
+      |..^..######|.@..| #    |............|                                   
+      |....|     #-.xd.|##    |.^..........|                                   
+      ---.--      ----f-#     ..........`..|                                   
+         #####   #########    --------------                                   
+             #   #     #       *##############                                 
+             ### #     ###     #             #                                 
+               # #       #     #             ###                               
+       --------.-#`      ##    #               #                               
+       |.........#   -----.----#               ##                              
+       |........|#   |........|#      ----------|-.-                           
+       |..>.....|%   |........|#      |............|                           
+       |.........#   |........-#      |..........<.|                           
+       ----------    ----------       |............|                           
+                                      |............|                           
+                                      |............|                           
+                                      --------------                           
+                                                                               
+rduytr the Evoker
+  Experience level: 1
+  Strength: 8
+  Dexterity: 13
+  Constitution: 12
+  Intelligence: 20
+  Wisdom: 13
+  Charisma: 9
+  Health: 0(11)
+  Energy: 9(9)
+  Def: 1
+  Gold: 115
+  Moves: 1264
+
+Dungeon seed: QPAvfquItOF-daxc
+Game ID: rduytr_1436292640
+
+Your Inventory:
+  Coins
+  $ - 115 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  q - 4 +0 arrows
+  r - a blessed +2 bow
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of teleportation
+  j - an uncursed scroll of light
+  k - an uncursed scroll of confuse monster
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of sleep
+  Potions
+  f - an uncursed potion of gain energy
+  g - an uncursed potion of restore ability
+  h - an uncursed potion of fruit juice
+  p - a blessed potion of sleeping
+  Rings
+  c - an uncursed ring of shock resistance
+  d - an uncursed ring of teleport control
+  Wands
+  b - a wand of light (0:14)
+  Tools
+  n - an uncursed leather drum
+
+Spells known in the end:
+  Name           Level  Category        Fail   Memory
+  a - force bolt     1      attack          0%     94%   
+  b - sleep          1      enchantment     0%     94%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  a gnome                 
+  6 jackals               
+  a sewer rat             
+  2 grid bugs             
+  3 lichens               
+  2 kobold zombies        
+  3 newts                 
+                          
+  18 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                   
+  You used a wielded weapon 12 times, starting on turn 5.  
+  You read items or engraved 1 time, starting on turn 1030.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You never wrote Elbereth's name.                         
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                                      
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                             
+        a long staircase              
+  Level 2 <- You were here            
+        stairs to The Gnomish Mines   
+                                      
+  The Gnomish Mines:
+  Level 3                             
+        stairs to The Dungeons of Doom
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:958 you reached level 2 of The Dungeons of Doom.                    
+  On T:1226 you reached level 1 of The Gnomish Mines.                      
+
+Score breakdown:
+  Gold:                   115                    ( 7022 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              3 levels   (  6.25%) ( 6188 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         7 monsters (  1.84%) ( 4066 points)
+  Time penalty:          1264 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    13820        
+
+Latest messages:
+  The grid bug is killed!
+  The kitten misses the jackal. (2x)
+  The jackal bites!
+  The kitten misses the jackal.
+  The kitten bites the jackal.
+  The jackal is killed!
+  The kitten eats a jackal corpse.
+  You can move again.
+  The jackal bites!
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye rduytr the Wizard, killed by a jackal...                      
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 2 with 13820 points,
+  and 115 pieces of gold, after 1264 moves.                             
+  You were level 1 with a maximum of 11 hit points when you died.       
+                                                                        
+

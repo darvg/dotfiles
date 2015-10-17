@@ -1,0 +1,287 @@
+wizard, chaotic male elven Wizard
+                                                                               
+                                 ---------------                               
+                                 |.............|                               
+                                 |..---------..|                               
+                                 |..|.......|..|                               
+   ---------------               |..|.......|..|               --------------- 
+   |.............|               |..|..._...|..|               |.............| 
+   |..---------..--   ---------  |..|.......|..|  ---------   --..---------..| 
+   |..|.......|...-- --.......-- |..|.......|..| --.......-- --...|.......|..| 
+   |..|.......|....---.........--|..----.----..|--.........---....|.......|..| 
+   |..|...@..W-.....-...........||.............||...........-.....-..._...|..| 
+   |..|.......|....---.........-----.........-----.........---....|.......|..| 
+   |..|.......|...-- --.......--   -----|-----   --.......-- --...|.......|..| 
+   |..---------..--   ----|----    --.......--    ----|----   --..---------..| 
+   |.............|      |...--------.........--------...|      |.............| 
+   ---------------      |.........|...........|.........|      --------------- 
+                        -------...--.........--...-------                      
+                              |....--.......--....|                            
+                              ---...----|----...---                            
+                                |...............|                              
+                                -----------------                              
+wizard the Mage
+  Experience level: 30
+  Strength: 9
+  Dexterity: 16
+  Constitution: 13
+  Intelligence: 20
+  Wisdom: 9
+  Charisma: 9
+  Health: 53(53)
+  Energy: 395(395)
+  Def: 5
+  Gold: 203
+  Moves: 2204
+
+Dungeon seed: Whg47t--ufIxXDBh
+Game ID: wizard_1437503663
+
+Your Inventory:
+  Coins
+  $ - 203 gold pieces
+  Weapons
+  a - a very burnt +1 quarterstaff (weapon in hands)
+  t - a cursed thoroughly rusty -1 scimitar
+  Armor
+  e - an uncursed very burnt +0 cloak of magic resistance (being worn)
+  n - an uncursed +0 elven mithril-coat (being worn)
+  Scrolls
+  i - 2 uncursed scrolls of blank paper
+  j - an uncursed scroll of blank paper
+  p - an uncursed scroll of blank paper
+  s - a cursed scroll of blank paper
+  Spellbooks
+  k - a blessed spellbook of blank paper
+  l - an uncursed spellbook of blank paper
+  Rings
+  c - an uncursed ring of fire resistance
+  d - an uncursed thoroughly rusty ring of polymorph control
+  Wands
+  b - a cursed wand of striking (0:3)
+  Tools
+  m - an uncursed leather drum
+
+Spells known in the end:
+  Name           Level  Category        Fail    Memory
+  a - force bolt     1      attack          39%     97%   
+  b - sleep          1      enchantment     39%     89%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.                
+  Hunger level was 364.                    
+  Your alignment was 21 / 21.              
+  You were sleep resistant.                
+  You were magic-protected.                
+  You were warned.                         
+  You had infravision.                     
+  You had teleport control.                
+  Your luck was zero.                      
+  You survived after being killed 12 times.
+
+Vanquished creatures:
+  a lich                  
+  an Aleax                
+  a long worm             
+  2 xans                  
+  a tiger                 
+  a crocodile             
+  a giant beetle          
+  a black light           
+  an orc mummy            
+  a jaguar                
+  a dwarf lord            
+  2 apes                  
+  a Woodland-elf          
+  a pony                  
+  a giant ant             
+  2 floating eyes         
+  a kitten                
+  a dwarf                 
+  a werejackal            
+  an iguana               
+  2 killer bees           
+  an acid blob            
+  a large kobold          
+  a hobgoblin             
+  4 jackals               
+  a fox                   
+  2 grid bugs             
+  a kobold zombie         
+                          
+  36 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                                            
+  You used a wielded weapon 117 times, starting on turn 58.                         
+  You read items or engraved 120 times, starting on turn 868.                       
+  You never genocided any monsters.                                                 
+  You never polymorphed an object.                                                  
+  You never changed form.                                                           
+  You used no wishes.                                                               
+  You never split a pudding.                                                        
+  You wrote Elbereth's name 78 times, starting on turn 868.                         
+  You violated your moral code, losing 31 points of alignment, starting on turn 111.
+
+Dungeon overview:
+                                      
+  The Dungeons of Doom: levels 1 to 26
+  Level 1                             
+        some fountains                
+        stairs to The Elemental Planes
+  Level 2                             
+        an armor shop                 
+  Level 3                             
+        a fountain                    
+  Level 4                             
+        some fountains                
+        stairs to The Gnomish Mines   
+  Level 5                             
+  Level 26                            
+        a fountain, a throne          
+                                      
+  Gehennom: levels 27 to 46
+  Level 27                            
+        a temple to Moloch            
+        stairs to The Dungeons of Doom
+  Level 28                            
+  Level 46                            
+                                      
+  The Gnomish Mines:
+  Level 5                             
+        stairs to The Dungeons of Doom
+                                      
+  The Elemental Planes:
+  Astral Plane <- You were here       
+        some high altars              
+  Plane 4                             
+        portal to The Elemental Planes
+  Plane 3                             
+        portal to The Elemental Planes
+  Plane 2                             
+        portal to The Elemental Planes
+  Plane 1                             
+        portal to The Elemental Planes
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!                 
+  On T:68 you advanced to experience level 2.                                               
+  On T:68 you advanced to experience level 3.                                               
+  On T:68 you advanced to experience level 4.                                               
+  On T:68 you advanced to experience level 5.                                               
+  On T:68 you advanced to experience level 6.                                               
+  On T:68 you advanced to experience level 7.                                               
+  On T:68 you advanced to experience level 8.                                               
+  On T:68 you advanced to experience level 9.                                               
+  On T:68 you advanced to experience level 10.                                              
+  On T:68 you advanced to experience level 11.                                              
+  On T:68 you advanced to experience level 12.                                              
+  On T:68 you advanced to experience level 13.                                              
+  On T:68 you advanced to experience level 14.                                              
+  On T:68 you advanced to experience level 15.                                              
+  On T:68 you advanced to experience level 16.                                              
+  On T:68 you advanced to experience level 17.                                              
+  On T:68 you advanced to experience level 18.                                              
+  On T:68 you advanced to experience level 19.                                              
+  On T:68 you advanced to experience level 20.                                              
+  On T:68 you advanced to experience level 21.                                              
+  On T:68 you advanced to experience level 22.                                              
+  On T:68 you advanced to experience level 23.                                              
+  On T:68 you advanced to experience level 24.                                              
+  On T:68 you advanced to experience level 25.                                              
+  On T:68 you advanced to experience level 26.                                              
+  On T:68 you advanced to experience level 27.                                              
+  On T:68 you advanced to experience level 28.                                              
+  On T:68 you advanced to experience level 29.                                              
+  On T:68 you advanced to experience level 30.                                              
+  On T:506 you were saved from death by your wizard powers!                                 
+  On T:717 you reached level 2 of The Dungeons of Doom.                                     
+  On T:766 you reached level 3 of The Dungeons of Doom.                                     
+  On T:975 you were saved from death by your wizard powers!                                 
+  On T:1245 you reached level 4 of The Dungeons of Doom.                                    
+  On T:1464 you reached level 1 of The Gnomish Mines.                                       
+  On T:1468 you reached level 5 of The Dungeons of Doom.                                    
+  On T:1470 you reached The Valley of the Dead.                                             
+  On T:1492 you reached The Castle.                                                         
+  On T:1528 you were saved from death by your wizard powers!                                
+  On T:1531 you were saved from death by your wizard powers!                                
+  On T:1533 you were saved from death by your wizard powers!                                
+  On T:1602 you reached level 2 of Gehennom.                                                
+  On T:1603 you reached level 20 of Gehennom.                                               
+  On T:1614 you gained the Amulet of Yendor!                                                
+  On T:1726 you reached the Plane of Earth.                                                 
+  On T:1729 you were saved from death by your wizard powers!                                
+  On T:1738 you were saved from death by your wizard powers!                                
+  On T:1739 you were saved from death by your wizard powers!                                
+  On T:1741 you reached the Plane of Air.                                                   
+  On T:1747 you were saved from death by your wizard powers!                                
+  On T:1750 you reached the Plane of Fire.                                                  
+  On T:1750 you were saved from death by your wizard powers!                                
+  On T:1751 you reached the Plane of Water.                                                 
+  On T:2063 you reached the Astral Plane.                                                   
+  On T:2076 you were saved from death by your wizard powers!                                
+  On T:2077 you were saved from death by your wizard powers!                                
+  On T:2204 you lost the Amulet of Yendor.                                                  
+  On T:2204 you offered the Amulet of Yendor to Anhur and ascended to the status of Demigod!
+
+Score breakdown:
+  Gold:                   203                    ( 7856 points)
+  Experience:              30 levels             (30000 points)
+  Exploration:             46 levels   (100.00%) (30000 points)
+  Discoveries:              4 items    (  1.44%) ( 3605 points)
+  Valuables value:          0                    (    0 points)
+  Artifact value:           0                    (    0 points)
+  Variety of kills:        28 monsters (  7.35%) ( 8132 points)
+  Time penalty:          2204 turns              ( -144 points)
+  Survival:          ascended  (score multiplied by 200%)      
+                                                               
+  Total score:                                   158898        
+
+Latest messages:
+  The Angel of Moloch casts a spell at the guardian Angel of Anhur!
+  The guardian Angel of Anhur is hit by a shower of missiles!
+  The missiles bounce off!
+  The Angel of Moloch casts aspersions on your ancestry.
+  The djinni hits!
+  You hear a rumbling noise.
+  The master mind flayer's tentacles suck you!
+  Your brain is eaten!
+  You feel very stupid!
+  The master mind flayer's tentacles suck you!
+  Your brain is eaten!
+  You feel stupid!
+  The master mind flayer's tentacles suck you!
+  Your brain is eaten!
+  You feel stupid!
+  <What do you want to sacrifice? [u or ?*]: u>
+  You take off your Amulet of Yendor.
+  You offer the Amulet of Yendor to Anhur...
+  An invisible choir sings, and you are bathed in radiance...
+  The voice of Anhur thunders: "Congratulations, mortal!"
+  "In return for thy service, I grant thee the gift of Immortality!"
+  You ascend to the status of Demigod...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye wizard the Demigod, ascended...                             
+                                                                      
+  You went to your reward with 158898 points,                         
+  and 203 pieces of gold, after 2204 moves.                           
+  You were level 30 with a maximum of 53 hit points when you ascended.
+                                                                      
+

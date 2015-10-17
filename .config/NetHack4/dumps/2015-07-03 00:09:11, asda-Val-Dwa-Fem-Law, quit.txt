@@ -1,0 +1,117 @@
+asda, lawful female dwarven Valkyrie
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                         --.--                                                 
+                         |.d..                                                 
+                         |#.@|                                                 
+                         |...|                                                 
+                         -----                                                 
+                                                                               
+                                                                               
+asda the Stripling
+  Experience level: 1
+  Strength: 18
+  Dexterity: 16
+  Constitution: 17
+  Intelligence: 9
+  Wisdom: 9
+  Charisma: 7
+  Health: 18(18)
+  Energy: 1(1)
+  Def: 4
+  Gold: 0
+  Moves: 1
+
+Dungeon seed: qevxegoIZMoep3bT
+Game ID: asda_1435882131
+
+Your Inventory:
+  Weapons
+  a - a +1 long sword (weapon in hand)
+  b - a blessed +0 dagger
+  Armor
+  e - an uncursed +3 small shield (being worn)
+  Comestibles
+  c - an uncursed food ration
+
+Spells known in the end:
+  Name Level Category Fail Memory
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   dagger     [Basic]
+   long sword [Basic]
+  Spellcasting Skills
+
+Final Attributes:
+  You were nominally aligned.
+  You were cold resistant.   
+  You had infravision.       
+  You were stealthy.         
+  You were lucky.            
+  You survived.              
+
+Voluntary challenges:
+  You went without food.                      
+  You were an atheist.                        
+  You never hit with a wielded weapon.        
+  You were a pacifist.                        
+  You were illiterate.                        
+  You never genocided any monsters.           
+  You never polymorphed an object.            
+  You never changed form.                     
+  You used no wishes.                         
+  You never split a pudding.                  
+  You never wrote Elbereth's name.            
+  You never violated your personal moral code.
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a sink            
+        a long staircase  
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.22%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         0 monsters (  0.00%) (    0 points)
+  Time penalty:             1 turn               (    0 points)
+  Survival:              quit  (score multiplied by  90%)      
+                                                               
+  Total score:                                        0        
+
+Latest messages:
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Farvel asda the Valkyrie, quit...                                 
+                                                                    
+  You quit in The Dungeons of Doom on dungeon level 1 with 0 points,
+  and 0 pieces of gold, after 1 move.                               
+  You were level 1 with a maximum of 18 hit points when you quit.   
+                                                                    
+

@@ -1,0 +1,174 @@
+gimli, lawful female dwarven Valkyrie
+                                                                               
+                                       ---                                     
+        -------------                 -..---                                   
+     -.............>---               .....-                                   
+       --------.....^.|       -----  ...^.                                     
+              --......|      --*..---...-                                      
+               --..--.---    |..........|                                      
+                |..||.<.|    |.......^..|                                      
+                ------..| ---|.........--                                      
+                     |.-- |..--...|...--                                       
+                     |.|  |@....d------                                        
+                     |.----h------                                             
+                     |......|                                                  
+                     ---..---                                                  
+                      |...|                                                    
+                      --..|                                                    
+                       --.|                                                    
+                        ---                                                    
+                                                                               
+                                                                               
+                                                                               
+gimli the Skirmisher
+  Experience level: 3
+  Strength: 18
+  Dexterity: 12
+  Constitution: 20
+  Intelligence: 3
+  Wisdom: 8
+  Charisma: 9
+  Health: 19(45)
+  Energy: 2(2)
+  Def: 4
+  Gold: 233
+  Moves: 2323
+
+Dungeon seed: 4dAwanrWRet444Ce
+Game ID: gimli_1437497963
+
+Your Inventory:
+  Coins
+  $ - 233 gold pieces
+  Weapons
+  a - a +1 long sword (weapon in hand)
+  b - a +0 dagger
+  Armor
+  e - an uncursed +3 small shield (being worn)
+  Comestibles
+  j - an uncursed food ration
+  Scrolls
+  i - an uncursed scroll of light
+  Spellbooks
+  h - an uncursed spellbook of detect monsters
+  Potions
+  f - a blessed potion of booze
+  Tools
+  d - an uncursed oil lamp (0:1497)
+
+Spells known in the end:
+  Name Level Category Fail Memory
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   dagger     [Basic]
+   long sword [Basic]
+  Spellcasting Skills
+
+Final Attributes:
+  You were piously aligned.
+  You were cold resistant. 
+  You had infravision.     
+  You were stealthy.       
+  You are dead.            
+
+Vanquished creatures:
+  2 coyotes               
+  a gas spore             
+  3 giant rats            
+  a gnome                 
+  7 jackals               
+  a fox                   
+  a kobold                
+  2 goblins               
+  2 sewer rats            
+  4 grid bugs             
+  a bat                   
+  5 lichens               
+  5 kobold zombies        
+  3 newts                 
+                          
+  38 creatures vanquished.
+
+Voluntary challenges:
+  You followed a strict vegan diet.                        
+  You had been an atheist until turn 2304.                 
+  You used a wielded weapon 20 times, starting on turn 143.
+  You read items or engraved 2 times, starting on turn 710.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You wrote Elbereth's name 1 time, starting on turn 710.  
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                                      
+  The Dungeons of Doom: levels 1 to 3
+  Level 1                             
+        a fountain                    
+        a long staircase              
+  Level 2                             
+  Level 3                             
+        a general store               
+        stairs to The Gnomish Mines   
+                                      
+  The Gnomish Mines: levels 4 to 5
+  Level 4 <- You were here            
+        stairs to The Dungeons of Doom
+  Level 5                             
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:135 you reached level 2 of The Dungeons of Doom.                    
+  On T:1153 you advanced to experience level 2.                            
+  On T:1633 you reached level 3 of The Dungeons of Doom.                   
+  On T:2199 you advanced to experience level 3.                            
+  On T:2228 you reached level 1 of The Gnomish Mines.                      
+  On T:2250 you reached level 2 of The Gnomish Mines.                      
+
+Score breakdown:
+  Gold:                   233                    ( 8059 points)
+  Experience:               3 levels             ( 7878 points)
+  Exploration:              5 levels   ( 10.20%) ( 8660 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:        14 monsters (  3.67%) ( 5750 points)
+  Time penalty:          2323 turns              ( -222 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    24100        
+
+Latest messages:
+  The mind flayer concentrates.
+  A wave of psychic energy pours over you!
+  The mind flayer hits!
+  The mind flayer's tentacles suck you!
+  Your brain is eaten!
+  You feel stupid!
+  The mind flayer's tentacles suck you!
+  Your brain is eaten!
+  You feel stupid!
+  The mind flayer's tentacles suck you!
+  Your brain is eaten!
+  Your last thought fades away.
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Farvel gimli the Valkyrie, killed by brainlessness...              
+                                                                     
+  You died in The Gnomish Mines on dungeon level 4 with 24100 points,
+  and 233 pieces of gold, after 2323 moves.                          
+  You were level 3 with a maximum of 45 hit points when you died.    
+                                                                     
+

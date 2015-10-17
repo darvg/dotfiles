@@ -1,0 +1,135 @@
+Asfhjks, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                                                               
+                                                                     ------    
+                                                                     |....|    
+                                                                     ..%..|    
+                                                                     |...+|    
+                                                                     -<..f|    
+                                                                     |.@..|    
+                                                                     .....|    
+                                                                     ------    
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+Asfhjks the Evoker
+  Experience level: 1
+  Strength: 9
+  Dexterity: 16
+  Constitution: 15
+  Intelligence: 20
+  Wisdom: 7
+  Charisma: 8
+  Health: 11(11)
+  Energy: 9(9)
+  Def: 1
+  Gold: 0
+  Moves: 14
+
+Dungeon seed: c75CivX9mWcPgRPt
+Game ID: Asfhjks_1443818687
+
+Your Inventory:
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of remove curse
+  j - a blessed scroll of teleportation
+  k - an uncursed scroll of food detection
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of confuse monster
+  Potions
+  f - an uncursed potion of water
+  g - a blessed potion of invisibility
+  h - an uncursed potion of healing
+  Rings
+  c - an uncursed ring of fire resistance
+  d - an uncursed ring of see invisible
+  Wands
+  b - a wand of sleep (0:7)
+  Tools
+  n - an uncursed bugle
+
+Spells known in the end:
+  Name                Level  Category        Fail   Memory
+  a - force bolt          1      attack          0%     100%  
+  b - confuse monster     2      enchantment     0%     100%  
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were stridently aligned.
+  You were magic-protected.   
+  You had infravision.        
+  You survived.               
+
+Vanquished creatures:
+  a lichen
+
+Voluntary challenges:
+  You went without food.                               
+  You were an atheist.                                 
+  You used a wielded weapon 1 time, starting on turn 5.
+  You were illiterate.                                 
+  You never genocided any monsters.                    
+  You never polymorphed an object.                     
+  You never changed form.                              
+  You used no wishes.                                  
+  You never split a pudding.                           
+  You never wrote Elbereth's name.                     
+  You never violated your personal moral code.         
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.08%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         1 monster  (  0.26%) ( 1536 points)
+  Time penalty:            14 turns              (    0 points)
+  Survival:              quit  (score multiplied by  90%)      
+                                                               
+  Total score:                                     1382        
+
+Latest messages:
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Asfhjks the Wizard, quit...                                  
+                                                                       
+  You quit in The Dungeons of Doom on dungeon level 1 with 1382 points,
+  and 0 pieces of gold, after 14 moves.                                
+  You were level 1 with a maximum of 11 hit points when you quit.      
+                                                                       
+

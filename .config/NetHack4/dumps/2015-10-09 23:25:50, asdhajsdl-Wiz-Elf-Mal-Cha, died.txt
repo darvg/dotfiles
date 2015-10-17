@@ -1,0 +1,143 @@
+asdhajsdl, chaotic male elven Wizard
+                                                                               
+  -------                                                                      
+  |.....|                                                                      
+  |.....|     ------------                                                     
+  |.....|     |..........|                                                     
+  |.....-#    |.....>....|        ----------                                   
+  |....<|###  |..........|       #.........|                                   
+  |......# #  |...........########|.........                                   
+  -------  ###--------.---        |........|                                   
+             #       ##           |........+                                   
+             #####################.........|                                   
+             #########            ----------                                   
+            -.-------                                                          
+            |.......|                                                          
+            .........##d@#f#####                                               
+            |.......|                                                          
+            |.......|                                                          
+            ---------                                                          
+                                                                               
+                                                                               
+                                                                               
+asdhajsdl the Evoker
+  Experience level: 1
+  Strength: 11
+  Dexterity: 15
+  Constitution: 12
+  Intelligence: 20
+  Wisdom: 10
+  Charisma: 8
+  Health: 0(11)
+  Energy: 9(9)
+  Def: 1
+  Gold: 108
+  Moves: 170
+
+Dungeon seed: t6mbizuUUau1Lnyy
+Game ID: asdhajsdl_1444433082
+
+Your Inventory:
+  Coins
+  $ - 108 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of charging
+  j - an uncursed scroll of scare monster
+  k - a blessed scroll of food detection
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of slow monster
+  Potions
+  f - an uncursed potion of extra healing
+  g - a blessed potion of sleeping
+  h - an uncursed potion of restore ability
+  Rings
+  c - an uncursed ring of protection from shape changers
+  d - an uncursed ring of cold resistance
+  Wands
+  b - a wand of striking (0:4)
+  Tools
+  n - an uncursed bugle
+
+Spells known in the end:
+  Name             Level  Category        Fail   Memory
+  a - force bolt       1      attack          0%     100%  
+  b - slow monster     2      enchantment     0%     100%  
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were fervently aligned.
+  You were magic-protected.  
+  You had infravision.       
+  You are dead.              
+
+Vanquished creatures:
+  3 jackals              
+  a newt                 
+                         
+  4 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                
+  You were an atheist.                                  
+  You used a wielded weapon 3 times, starting on turn 8.
+  You were illiterate.                                  
+  You never genocided any monsters.                     
+  You never polymorphed an object.                      
+  You never changed form.                               
+  You used no wishes.                                   
+  You never split a pudding.                            
+  You never wrote Elbereth's name.                      
+  You never violated your personal moral code.          
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                   108                    ( 6930 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  1.96%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         2 monsters (  0.52%) ( 2173 points)
+  Time penalty:           170 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                     7282        
+
+Latest messages:
+  You miss the fox.
+  The fox bites!
+  You die...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asdhajsdl the Wizard, killed by a fox...                     
+                                                                       
+  You died in The Dungeons of Doom on dungeon level 1 with 7282 points,
+  and 108 pieces of gold, after 170 moves.                             
+  You were level 1 with a maximum of 11 hit points when you died.      
+                                                                       
+

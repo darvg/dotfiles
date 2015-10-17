@@ -1,0 +1,153 @@
+The Archbishop of Canterbury, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                         ---------------                       
+                                       ##..............|      ----------       
+  ----------                           # |.............|    ##.........|       
+  |........|                         ### |.>...........-#   # |........|       
+  |.........#     -------------      #   |.............|# ### |........|       
+  |........|##   #............|    ###   ---.-.---------###   |........|       
+  |........|######|...........|    #        # #         ###   -------.--       
+  |.....<..|  ####.............#####        ###         # `##        #         
+  |.........######|...........|               I         #   #        #         
+  ----------      -------------               ###       #   ###      #         
+                                              # #       #     #      #         
+                                              `########################        
+                                                #       #       #  -.---       
+                                                ##      #       ###|...|       
+                                            -----.------#         #....|       
+                                            |....(.....|#          |...|       
+                                            |....{.....+#          |...|       
+                                            ------------           -----       
+                                                                               
+The Archbishop of Canterbury the Evoker
+  Experience level: 1
+  Strength: 10
+  Dexterity: 11
+  Constitution: 16
+  Intelligence: 20
+  Wisdom: 10
+  Charisma: 8
+  Health: 0(11)
+  Energy: 8(8)
+  Def: 1
+  Gold: 160
+  Moves: 1020
+
+Dungeon seed: P4xCSd0n0HFImIH9
+Game ID: The Archbishop of Canterbury_1435113102
+
+Your Inventory:
+  Coins
+  $ - 160 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of create monster
+  j - an uncursed scroll of confuse monster
+  k - an uncursed scroll of scare monster
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of light
+  Potions
+  g - an uncursed potion of polymorph
+  h - an uncursed potion of monster detection
+  Rings
+  c - an uncursed +1 ring of gain strength
+  d - an uncursed ring of shock resistance
+  Wands
+  b - a wand of create monster (0:15)
+  Tools
+  n - an uncursed leather drum
+
+Spells known in the end:
+  Name           Level  Category       Fail   Memory
+  a - force bolt     1      attack         0%     10%   
+  b - light          1      divination     0%     37%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were devoutly aligned.
+  You were magic-protected. 
+  You had infravision.      
+  You are dead.             
+
+Vanquished creatures:
+  a jackal               
+  a goblin               
+  2 grid bugs            
+  a lichen               
+  a kobold zombie        
+  3 newts                
+                         
+  9 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                  
+  You were an atheist.                                    
+  You used a wielded weapon 4 times, starting on turn 151.
+  You read items or engraved 1 time, starting on turn 875.
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You never wrote Elbereth's name.                        
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 2
+  Level 1 <- You were here
+        a fountain        
+        a long staircase  
+  Level 2                 
+        a fountain        
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:427 you reached level 2 of The Dungeons of Doom.                    
+
+Score breakdown:
+  Gold:                   160                    ( 7506 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              2 levels   (  4.08%) ( 4330 points)
+  Discoveries:              1 item     (  0.36%) ( 1802 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         6 monsters (  1.57%) ( 3764 points)
+  Time penalty:          1020 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    13921        
+
+Latest messages:
+  You faint from lack of food.
+  It bites! (7x)
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want an account of creatures vanquished? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye The Archbishop of Canterbury the Wizard, killed by a fox, while fainted from lack of food...
+                                                                                                      
+  You died in The Dungeons of Doom on dungeon level 1 with 13921 points,                              
+  and 160 pieces of gold, after 1020 moves.                                                           
+  You were level 1 with a maximum of 11 hit points when you died.                                     
+                                                                                                      
+

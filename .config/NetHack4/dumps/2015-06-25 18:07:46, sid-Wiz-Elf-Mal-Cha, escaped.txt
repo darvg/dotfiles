@@ -1,0 +1,144 @@
+sid, chaotic male elven Wizard
+                                                                               
+                                                                               
+       ---------                                                               
+       |.......|            ---------                                          
+       |.......|            |.......|                    -------------         
+       |.......|            |.......|       ---------    |...........|         
+       |........#          #-.......|       |.......|####............|         
+       |.......|#          #|....{...#######........|#   |....@f.....|         
+       |.......|#          #------.--     # |.......|#   |...........-#        
+       ---------#          ##     #       ##........|#   ---------.---#        
+                #           #     #       # ---.-----#            #   #        
+                ###         #    `#######################       ###   #        
+                  #         #    ####     #             #       #     #        
+                  ###       #  ##`  #     #            ##########     #        
+                    #  -----#  #   ####   #                           #------  
+                    ###|....####  ---.-.--                            #.....|  
+                      #...^| #    |......|#                            |....|  
+                       |....##    |......|#                            |....|  
+                       |...|      |......-#                            --|---  
+                       -----      --------                               #     
+                                                                               
+sid the Evoker
+  Experience level: 1
+  Strength: 13
+  Dexterity: 11
+  Constitution: 11
+  Intelligence: 19
+  Wisdom: 10
+  Charisma: 11
+  Health: 11(11)
+  Energy: 9(9)
+  Def: 1
+  Gold: 249
+  Moves: 508
+
+Dungeon seed: 7-32byzaELGmScp6
+Game ID: sid_1435254737
+
+Your Inventory:
+  Coins
+  $ - 249 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  r - an uncursed +0 cloak of displacement
+  y - an uncursed +0 pair of low boots
+  Comestibles
+  s - an uncursed cream pie
+  Scrolls
+  i - a blessed scroll of light
+  j - a blessed scroll of identify
+  k - an uncursed scroll of enchant armor
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of create monster
+  q - an uncursed spellbook of turn undead
+  Potions
+  f - an uncursed potion of monster detection
+  g - an uncursed potion of enlightenment
+  h - an uncursed potion of sickness
+  Rings
+  c - an uncursed ring of slow digestion
+  d - an uncursed ring of teleportation
+  Wands
+  b - a wand of lightning (0:6)
+  Tools
+  n - a magic marker (0:61)
+  o - an uncursed blindfold
+  p - an uncursed tooled horn
+
+Spells known in the end:
+  Name               Level  Category     Fail    Memory
+  a - force bolt         1      attack       0%      98%   
+  b - create monster     2      clerical     56%     98%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were nominally aligned.
+  You were magic-protected.  
+  You had infravision.       
+  You survived.              
+
+Voluntary challenges:
+  You went without food.                                  
+  You were an atheist.                                    
+  You never hit with a wielded weapon.                    
+  You were a pacifist.                                    
+  You read items or engraved 1 time, starting on turn 301.
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You wrote Elbereth's name 1 time, starting on turn 301. 
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a fountain        
+        a long staircase  
+
+Score breakdown:
+  Gold:                   249                    ( 8156 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.08%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value:          0                    (    0 points)
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         0 monsters (  0.00%) (    0 points)
+  Time penalty:           508 turns              (    0 points)
+  Survival:          survived  (score multiplied by 100%)      
+                                                               
+  Total score:                                     8156        
+
+Latest messages:
+  <Beware, there will be no return! Still climb? [yn]: y>
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye sid the Wizard, escaped...                                
+                                                                    
+  You and the kitten                                                
+  escaped from the dungeon with 8156 points,                        
+  and 249 pieces of gold, after 508 moves.                          
+  You were level 1 with a maximum of 11 hit points when you escaped.
+                                                                    
+

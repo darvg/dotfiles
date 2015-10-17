@@ -1,0 +1,162 @@
+fghjk, chaotic male elven Wizard
+                                                                               
+                               ------                                          
+          ------------         |....-#     --------                            
+          |..........|        #.....|#     |.......#                           
+          |..........-########%|....|#     |......|#                           
+          |..........|%########.....|######.>.....|#                           
+          |..........|#        ------#     ---.----###                         
+          -----|-.----################       ##      #  -----      -           
+           #######                   #       #       ###|....                  
+           #    #                    #     ###         #-...|                  
+          ##   ##                    #     #            |....                  
+         -.----.-                    #   ###            -.---                  
+         |......|                    #   #               #                     
+         |......|                    # ###               @                     
+         |.....^|                    #-.---------        F#                    
+         |......|                    #|.........|                              
+         |......|                    #|.........|                              
+         --------                    #|.........|                              
+                                     #........<.|                              
+                                      -----------                              
+                                                                               
+fghjk the Conjurer
+  Experience level: 3
+  Strength: 11
+  Dexterity: 16
+  Constitution: 11
+  Intelligence: 20
+  Wisdom: 8
+  Charisma: 10
+  Health: 0(20)
+  Energy: 38(38)
+  Def: 4
+  Gold: 192
+  Moves: 1427
+
+Dungeon seed: OIiKABtTprgy66WV
+Game ID: fghjk_1437500680
+
+Your Inventory:
+  Coins
+  $ - 192 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  q - an uncursed +2 orcish helm (being worn)
+  Scrolls
+  i - a blessed scroll of enchant armor
+  j - an uncursed scroll of create monster
+  k - a blessed scroll of destroy armor
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of sleep
+  Potions
+  f - an uncursed potion of enlightenment
+  g - an uncursed potion of gain energy
+  h - an uncursed potion of levitation
+  Rings
+  c - an uncursed ring of protection from shape changers
+  d - an uncursed +1 ring of protection
+  Wands
+  b - a wand of teleportation (0:8)
+  Tools
+  n - a magic marker (0:72)
+  o - an uncursed bugle
+  p - an uncursed skeleton key
+
+Spells known in the end:
+  Name           Level  Category        Fail   Memory
+  a - force bolt     1      attack          0%     93%   
+  b - sleep          1      enchantment     0%     93%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  an acid blob            
+  a gecko                 
+  2 jackals               
+  3 goblins               
+  3 sewer rats            
+  4 grid bugs             
+  5 lichens               
+  a kobold zombie         
+  2 newts                 
+                          
+  22 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                 
+  You used a wielded weapon 28 times, starting on turn 2.
+  You were illiterate.                                   
+  You never genocided any monsters.                      
+  You never polymorphed an object.                       
+  You never changed form.                                
+  You used no wishes.                                    
+  You never split a pudding.                             
+  You never wrote Elbereth's name.                       
+  You never violated your personal moral code.           
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 3
+  Level 1                 
+        a long staircase  
+  Level 2                 
+        some fountains    
+  Level 3 <- You were here
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:529 you advanced to experience level 2.                             
+  On T:760 you reached level 2 of The Dungeons of Doom.                    
+  On T:1104 you advanced to experience level 3.                            
+  On T:1120 you reached level 3 of The Dungeons of Doom.                   
+
+Score breakdown:
+  Gold:                   192                    ( 7774 points)
+  Experience:               3 levels             ( 7878 points)
+  Exploration:              3 levels   (  6.25%) ( 6188 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         9 monsters (  2.36%) ( 4610 points)
+  Time penalty:          1427 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    21160        
+
+Latest messages:
+  You miss the brown mold.
+  You are suddenly very cold!
+  You die...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want an account of creatures vanquished? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye fghjk the Wizard, killed by a brown mold...                   
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 3 with 21160 points,
+  and 192 pieces of gold, after 1427 moves.                             
+  You were level 3 with a maximum of 20 hit points when you died.       
+                                                                        
+

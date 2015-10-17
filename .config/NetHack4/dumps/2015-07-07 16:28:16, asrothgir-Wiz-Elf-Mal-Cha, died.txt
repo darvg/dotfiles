@@ -1,0 +1,161 @@
+asrothgir, chaotic male elven Wizard
+                                                                               
+                                                                               
+    ------------                                                               
+    |..........|                                                               
+    |..........|                                                               
+    |..........|                                                               
+    |..........|                                                               
+    |...........#####                                                          
+    -----|------    # ---------                                                
+         #          ##.........                                                
+         ###          |.......|                                                
+           #          |.......|                                                
+           #          |.......-#####----------                                 
+           #          ---------    #..@......|                                 
+   --------.-                       |.f.......                                 
+   |........|                       |....$...|                                 
+   |.........#                      ----------                                 
+   |........|                                                                  
+   |.........##################################                                
+   ----------                                                                  
+                                                                               
+asrothgir the Evoker
+  Experience level: 2
+  Strength: 12
+  Dexterity: 10
+  Constitution: 16
+  Intelligence: 20
+  Wisdom: 8
+  Charisma: 10
+  Health: 0(14)
+  Energy: 20(20)
+  Def: 1
+  Gold: 195
+  Moves: 1128
+
+Dungeon seed: iFNK9IEfgzu-aKrj
+Game ID: asrothgir_1436285844
+
+Your Inventory:
+  Coins
+  $ - 195 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  r - a +0 fauchard
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  q - an uncursed +0 helm of brilliance
+  y - an uncursed +0 elven leather helm
+  Scrolls
+  i - an uncursed scroll of magic mapping
+  j - an uncursed scroll of charging
+  k - an uncursed scroll of remove curse
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of light
+  o - an uncursed spellbook of jumping
+  Potions
+  f - an uncursed potion of water
+  g - an uncursed potion of fruit juice
+  h - an uncursed potion of confusion
+  p - an uncursed potion of extra healing
+  Rings
+  c - an uncursed ring of searching
+  d - an uncursed ring of regeneration
+  Wands
+  b - a wand of speed monster (0:5)
+  Tools
+  n - an uncursed wooden harp
+
+Spells known in the end:
+  Name           Level  Category       Fail   Memory
+  a - force bolt     1      attack         0%     95%   
+  b - light          1      divination     0%     95%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  4 jackals               
+  a kobold                
+  a goblin                
+  8 grid bugs             
+  a lichen                
+  3 newts                 
+                          
+  18 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                  
+  You used a wielded weapon 18 times, starting on turn 21.
+  You read items or engraved 1 time, starting on turn 396.
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You never wrote Elbereth's name.                        
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 4
+  Level 1                 
+        a fountain        
+        a long staircase  
+  Level 2                 
+        a long staircase  
+  Level 4 <- You were here
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:429 you reached level 2 of The Dungeons of Doom.                    
+  On T:445 you advanced to experience level 2.                             
+  On T:693 you reached level 4 of The Dungeons of Doom.                    
+
+Score breakdown:
+  Gold:                   195                    ( 7797 points)
+  Experience:               2 levels             ( 5570 points)
+  Exploration:              4 levels   (  8.16%) ( 7500 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         6 monsters (  1.57%) ( 3764 points)
+  Time penalty:          1128 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    19704        
+
+Latest messages:
+  You miss the kitten.
+  The kitten bites! (2x)
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asrothgir the Wizard, killed by a kitten...                   
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 4 with 19704 points,
+  and 195 pieces of gold, after 1128 moves.                             
+  You were level 2 with a maximum of 14 hit points when you died.       
+                                                                        
+

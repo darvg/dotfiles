@@ -1,0 +1,167 @@
+Angethnir, chaotic male elven Wizard
+                                                                               
+                                                                               
+  ---------     ------------                                                   
+  |.......|     |..........|                                                   
+  |....<..|    #...........|                                                   
+  |.......|    #|..........|                                                   
+  |.......|    #---------.--                                                   
+  -----.---    #         #      B                                              
+       #       #         #                                                     
+       #       #       ###                                                     
+     ###       #       #                                                       
+     #         #     ###                                                       
+   --.---------#     #          B                                              
+   |..........|#    ##          @                                              
+   |..........|#   -.-----------f                                              
+   |.......{..|#   |............#                                              
+   |..........-#   |...........|                                               
+   |..........|    |...........|                                               
+   -------|----    -------------                                               
+          #                                                                    
+                                                                               
+Angethnir the Evoker
+  Experience level: 2
+  Strength: 10
+  Dexterity: 13
+  Constitution: 11
+  Intelligence: 20
+  Wisdom: 14
+  Charisma: 9
+  Health: 0(22)
+  Energy: 19(19)
+  Def: 1
+  Gold: 156
+  Moves: 2240
+
+Dungeon seed: BrESa40x9CuXL4Th
+Game ID: Angethnir_1437062713
+
+Your Inventory:
+  Coins
+  $ - 156 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  h - an uncursed scroll of identify
+  i - an uncursed scroll of enchant armor
+  j - an uncursed scroll of magic mapping
+  p - an uncursed scroll of earth
+  s - an uncursed scroll of enchant weapon
+  t - a cursed scroll of identify
+  u - an uncursed scroll of teleportation
+  v - an uncursed scroll of food detection
+  Spellbooks
+  k - a blessed spellbook of force bolt
+  l - an uncursed spellbook of sleep
+  Potions
+  f - 2 uncursed potions of oil
+  g - an uncursed potion of extra healing
+  Rings
+  c - an uncursed ring of poison resistance
+  d - an uncursed ring of conflict
+  Wands
+  b - a blessed wand of striking (0:7)
+  Tools
+  m - an uncursed tooled horn
+  Gems
+  n - an uncursed garnet stone
+  q - 2 uncursed worthless pieces of orange glass
+
+Spells known in the end:
+  Name           Level  Category        Fail   Memory
+  a - force bolt     1      attack          0%     89%   
+  b - sleep          1      enchantment     0%     89%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  a gnome zombie          
+  2 geckos                
+  5 jackals               
+  a fox                   
+  3 goblins               
+  4 grid bugs             
+  a lichen                
+  a kobold zombie         
+  8 newts                 
+                          
+  26 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                   
+  You used a wielded weapon 15 times, starting on turn 137.
+  You were illiterate.                                     
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You never wrote Elbereth's name.                         
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 3
+  Level 1                 
+        a sink            
+        a long staircase  
+  Level 2                 
+        a fountain, a sink
+  Level 3 <- You were here
+        a fountain        
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:455 you reached level 2 of The Dungeons of Doom.                    
+  On T:1275 you advanced to experience level 2.                            
+  On T:1582 you reached level 3 of The Dungeons of Doom.                   
+
+Score breakdown:
+  Gold:                   156                    ( 7469 points)
+  Experience:               2 levels             ( 5570 points)
+  Exploration:              3 levels   (  6.12%) ( 6123 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         9 monsters (  2.36%) ( 4610 points)
+  Time penalty:          2240 turns              ( -168 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    18883        
+
+Latest messages:
+  You miss the bat.
+  The bat bites! (2x)
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Angethnir the Wizard, killed by a bat...                      
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 3 with 18883 points,
+  and 156 pieces of gold, after 2240 moves.                             
+  You were level 2 with a maximum of 22 hit points when you died.       
+                                                                        
+

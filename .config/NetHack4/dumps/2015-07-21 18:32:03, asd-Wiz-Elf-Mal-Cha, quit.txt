@@ -1,0 +1,140 @@
+asd, chaotic male elven Wizard
+                                                                               
+                                           -------                             
+                                           |.<%.$|       --------              
+                                           |.....|       |..$...|              
+                                           |......###### |....I..              
+                                           -+--.--     # |.f..*^|              
+                                                       ##-......|              
+                                                         |...@..|              
+                                                         --------              
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+asd the Evoker
+  Experience level: 1
+  Strength: 10
+  Dexterity: 18
+  Constitution: 14
+  Intelligence: 17
+  Wisdom: 10
+  Charisma: 9
+  Health: 6(11)
+  Energy: 8(8)
+  Def: 1
+  Gold: 0
+  Moves: 44
+
+Dungeon seed: oeQEjQFF-UH_INoF
+Game ID: asd_1437503489
+
+Your Inventory:
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - a blessed scroll of scare monster
+  j - an uncursed scroll of light
+  k - an uncursed scroll of enchant weapon
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of detect monsters
+  Potions
+  f - a blessed potion of blindness
+  g - an uncursed potion of fruit juice
+  h - a blessed potion of confusion
+  Rings
+  c - an uncursed ring of protection from shape changers
+  d - an uncursed ring of teleport control
+  Wands
+  b - a wand of create monster (0:11)
+  o - a wand of wishing (0:3)
+  Tools
+  n - an uncursed bell
+
+Spells known in the end:
+  Name                Level  Category       Fail   Memory
+  a - force bolt          1      attack         0%     100%  
+  b - detect monsters     1      divination     0%     100%  
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were stridently aligned.
+  You were magic-protected.   
+  You had infravision.        
+  You survived.               
+
+Vanquished creatures:
+  a sewer rat            
+  a lichen               
+  a newt                 
+                         
+  3 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                
+  You were an atheist.                                  
+  You used a wielded weapon 1 time, starting on turn 30.
+  You were illiterate.                                  
+  You never genocided any monsters.                     
+  You never polymorphed an object.                      
+  You never changed form.                               
+  You used no wishes.                                   
+  You never split a pudding.                            
+  You never wrote Elbereth's name.                      
+  You never violated your personal moral code.          
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  1.96%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         3 monsters (  0.79%) ( 2662 points)
+  Time penalty:            44 turns              (    0 points)
+  Survival:              quit  (score multiplied by  90%)      
+                                                               
+  Total score:                                     2395        
+
+Latest messages:
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asd the Wizard, quit...                                      
+                                                                       
+  You quit in The Dungeons of Doom on dungeon level 1 with 2395 points,
+  and 0 pieces of gold, after 44 moves.                                
+  You were level 1 with a maximum of 11 hit points when you quit.      
+                                                                       
+

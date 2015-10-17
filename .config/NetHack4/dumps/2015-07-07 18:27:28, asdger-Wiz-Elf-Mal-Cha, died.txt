@@ -1,0 +1,169 @@
+asdger, chaotic male elven Wizard
+           ----                                                                
+           -.@|                                                                
+           %.G|                                                                
+           .<--                                                                
+           .--                                                                 
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+asdger the Evoker
+  Experience level: 2
+  Strength: 10
+  Dexterity: 17
+  Constitution: 10
+  Intelligence: 18
+  Wisdom: 9
+  Charisma: 12
+  Health: 0(19)
+  Energy: 12(25)
+  Def: 1
+  Gold: 128
+  Moves: 814
+
+Dungeon seed: fV8YPHLDOPz1R-Eh
+Game ID: asdger_1436293107
+
+Your Inventory:
+  Coins
+  $ - 128 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  o - a +0 flail
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of gold detection
+  j - an uncursed scroll of scare monster
+  k - an uncursed scroll of enchant weapon
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of remove curse
+  p - an uncursed spellbook of clairvoyance
+  Potions
+  f - an uncursed potion of oil
+  g - an uncursed potion of levitation
+  h - an uncursed potion of water
+  Rings
+  c - an uncursed ring of polymorph control
+  d - an uncursed ring of shock resistance
+  Wands
+  b - a wand of light (0:13)
+  Tools
+  n - an uncursed bell
+  Gems
+  q - an uncursed worthless piece of yellow glass
+  r - an uncursed worthless piece of blue glass
+  y - an uncursed worthless piece of yellowish brown glass
+
+Spells known in the end:
+  Name             Level  Category     Fail    Memory
+  a - force bolt       1      attack       0%      96%   
+  b - remove curse     3      clerical     91%     96%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  a kitten                
+  a hobbit                
+  2 jackals               
+  a fox                   
+  a kobold                
+  a grid bug              
+  2 lichens               
+  4 newts                 
+                          
+  13 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                  
+  You used a wielded weapon 10 times, starting on turn 47.
+  You read items or engraved 1 time, starting on turn 480.
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You never wrote Elbereth's name.                        
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                                      
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                             
+        a long staircase              
+  Level 2                             
+        stairs to The Gnomish Mines   
+                                      
+  The Gnomish Mines:
+  Level 3 <- You were here            
+        stairs to The Dungeons of Doom
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:335 you reached level 2 of The Dungeons of Doom.                    
+  On T:617 you advanced to experience level 2.                             
+  On T:803 you reached level 1 of The Gnomish Mines.                       
+
+Score breakdown:
+  Gold:                   128                    ( 7179 points)
+  Experience:               2 levels             ( 5570 points)
+  Exploration:              3 levels   (  6.12%) ( 6123 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         8 monsters (  2.10%) ( 4347 points)
+  Time penalty:           814 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    18575        
+
+Latest messages:
+  <Choose which spell to cast: force bolt 1  attack 0% 96%>
+  <In what direction?: south>
+  The spell misses the gnome lord.
+  The gnome lord thrusts his dagger.
+  The gnome lord hits!
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asdger the Wizard, killed by a gnome lord...               
+                                                                     
+  You died in The Gnomish Mines on dungeon level 3 with 18575 points,
+  and 128 pieces of gold, after 814 moves.                           
+  You were level 2 with a maximum of 19 hit points when you died.    
+                                                                     
+

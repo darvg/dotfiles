@@ -1,0 +1,132 @@
+Albertheth, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+         -.-------                                                             
+         |.....o.|                                                             
+         |..@`....                                                             
+         |..f....|                                                             
+         ---------                                                             
+                                                                               
+Albertheth the Evoker
+  Experience level: 1
+  Strength: 9
+  Dexterity: 12
+  Constitution: 11
+  Intelligence: 20
+  Wisdom: 11
+  Charisma: 12
+  Health: 11(11)
+  Energy: 7(7)
+  Def: 1
+  Gold: 0
+  Moves: 1
+
+Dungeon seed: 0c2L5qtTasDuHqLR
+Game ID: Albertheth_1436294037
+
+Your Inventory:
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of create monster
+  j - an uncursed scroll of scare monster
+  k - a blessed scroll of teleportation
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of detect monsters
+  Potions
+  f - an uncursed potion of paralysis
+  g - an uncursed potion of invisibility
+  h - a blessed potion of object detection
+  Rings
+  c - an uncursed ring of stealth
+  d - an uncursed ring of sustain ability
+  Wands
+  b - a wand of lightning (0:8)
+  Tools
+  n - an uncursed wooden harp
+
+Spells known in the end:
+  Name                Level  Category       Fail   Memory
+  a - force bolt          1      attack         0%     100%  
+  b - detect monsters     1      divination     0%     100%  
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were nominally aligned.
+  You were magic-protected.  
+  You had infravision.       
+  You survived.              
+
+Voluntary challenges:
+  You went without food.                      
+  You were an atheist.                        
+  You never hit with a wielded weapon.        
+  You were a pacifist.                        
+  You were illiterate.                        
+  You never genocided any monsters.           
+  You never polymorphed an object.            
+  You never changed form.                     
+  You used no wishes.                         
+  You never split a pudding.                  
+  You never wrote Elbereth's name.            
+  You never violated your personal moral code.
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  1.92%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         0 monsters (  0.00%) (    0 points)
+  Time penalty:             1 turn               (    0 points)
+  Survival:              quit  (score multiplied by  90%)      
+                                                               
+  Total score:                                        0        
+
+Latest messages:
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Albertheth the Wizard, quit...                            
+                                                                    
+  You quit in The Dungeons of Doom on dungeon level 1 with 0 points,
+  and 0 pieces of gold, after 1 move.                               
+  You were level 1 with a maximum of 11 hit points when you quit.   
+                                                                    
+

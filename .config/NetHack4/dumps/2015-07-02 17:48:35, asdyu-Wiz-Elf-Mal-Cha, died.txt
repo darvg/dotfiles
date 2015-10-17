@@ -1,0 +1,194 @@
+asdyu, chaotic male elven Wizard
+                                                                               
+                                         --------                              
+                                         |......|                              
+                                         |.......#####                         
+                                       #)..).[..|    #                         
+                 ----------              -%------    ### ----------            
+                 |........-###f@f#######)###############`|........|            
+                 |........|             ###            ##%........|            
+                #.........|             #               #|........|            
+              ###|.........######       #                |....<....            
+              #  ----------     #       #                |........|            
+            ###                 ###   --.---             ----------            
+            #                     #   |....|                                   
+  ----------#                     ### |....|                                   
+  |!!!!!!!.|#                       # |....|                                   
+  |!!!!.!).|#                       ##.....|                                   
+  |!!!!....|[                         |....|                                   
+  |!!!!!!!!-#                         ------                                   
+  |.!![.!!.|                                                                   
+  ----------                                                                   
+                                                                               
+asdyu the Conjurer
+  Experience level: 4
+  Strength: 9
+  Dexterity: 13
+  Constitution: 16
+  Intelligence: 20
+  Wisdom: 8
+  Charisma: 9
+  Health: 0(28)
+  Energy: 24(25)
+  Def: 5
+  Gold: 246
+  Moves: 2225
+
+Dungeon seed: caXl3tWLTdhLJyeS
+Game ID: asdyu_1435854243
+
+Your Inventory:
+  Coins
+  $ - 246 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  p - 9 +0 crossbow bolts
+  t - a +0 scimitar
+  w - a +0 dagger
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  y - an uncursed +0 leather armor (being worn)
+  z - a blessed +1 pair of kicking boots (being worn)
+  Comestibles
+  s - an uncursed lichen corpse
+  Scrolls
+  h - an uncursed scroll of enchant armor
+  i - an uncursed scroll of magic mapping
+  j - an uncursed scroll of identify
+  n - an uncursed scroll of fire
+  Spellbooks
+  k - a blessed spellbook of force bolt
+  l - an uncursed spellbook of sleep
+  Potions
+  f - 2 uncursed potions of sleeping
+  r - 2 uncursed potions of fruit juice
+  u - an uncursed potion of object detection
+  v - an uncursed potion of see invisible
+  x - an uncursed potion of healing
+  Rings
+  c - an uncursed ring of warning (on left hand)
+  d - an uncursed ring of teleport control (on right hand)
+  Wands
+  b - a wand of probing (0:8)
+  Tools
+  m - an uncursed wooden harp
+  o - an uncursed credit card
+  Gems
+  q - an uncursed worthless piece of violet glass
+
+Spells known in the end:
+  Name           Level  Category        Fail   Memory
+  a - force bolt     1      attack          0%     89%   
+  b - sleep          1      enchantment     0%     89%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were sleep resistant.
+  You were magic-protected.
+  You were warned.         
+  You had infravision.     
+  You had teleport control.
+  You were lucky.          
+  You are dead.            
+
+Vanquished creatures:
+  an elf zombie           
+  a floating eye          
+  a dwarf                 
+  a rothe                 
+  a gas spore             
+  a brown mold            
+  a yellow mold           
+  a green mold            
+  2 red molds             
+  2 gnomes                
+  3 geckos                
+  10 jackals              
+  2 foxen                 
+  a kobold                
+  2 goblins               
+  a sewer rat             
+  4 grid bugs             
+  5 lichens               
+  2 newts                 
+                          
+  42 creatures vanquished.
+
+Voluntary challenges:
+  You followed a strict vegan diet.                        
+  You used a wielded weapon 44 times, starting on turn 36. 
+  You read items or engraved 3 times, starting on turn 794.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You wrote Elbereth's name 2 times, starting on turn 794. 
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 4
+  Level 1                 
+        a long staircase  
+  Level 2                 
+        a long staircase  
+  Level 3                 
+        a weapon shop     
+  Level 4 <- You were here
+        a potion shop     
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:435 you reached level 2 of The Dungeons of Doom.                    
+  On T:661 you reached level 3 of The Dungeons of Doom.                    
+  On T:665 you advanced to experience level 2.                             
+  On T:1049 you reached level 4 of The Dungeons of Doom.                   
+  On T:1170 you advanced to experience level 3.                            
+  On T:1844 you advanced to experience level 4.                            
+
+Score breakdown:
+  Gold:                   246                    ( 8139 points)
+  Experience:               4 levels             ( 9649 points)
+  Exploration:              4 levels   (  8.33%) ( 7579 points)
+  Discoveries:              1 item     (  0.36%) ( 1802 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:        19 monsters (  4.99%) ( 6699 points)
+  Time penalty:          2225 turns              ( -158 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    26968        
+
+Latest messages:
+  You are now wearing a cloak of magic resistance.
+  You start equipping yourself.
+  You are now wearing a pair of mud boots.
+  <Your Equipment: cancelled>
+  The kitten bites! (2x)
+  You die...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asdyu the Wizard, killed by a kitten...                       
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 4 with 26968 points,
+  and 246 pieces of gold, after 2225 moves.                             
+  You were level 4 with a maximum of 28 hit points when you died.       
+                                                                        
+

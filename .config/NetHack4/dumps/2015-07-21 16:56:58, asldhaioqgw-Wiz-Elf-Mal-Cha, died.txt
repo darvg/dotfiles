@@ -1,0 +1,159 @@
+asldhaioqgw, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                                                 -------       
+                                      *##########################-%....|       
+                                                                 |..>..|       
+                                       --------------            ......|       
+                                       |............|            --.----       
+                                       |............|              #######     
+                                      #-............|                    #     
+                                    ###----.---------       #            ###   
+                    ------.----     #      ###)%##        ###              #   
+                    |......^..|#######%[######################  ####      ###  
+                   #..%.......|   #              ###      #       -|------.-+- 
+  -----          ###|.........-###%                       #       ...........| 
+  |//[/  ###########..........|                           #       |..........| 
+  |////.@@########  -----------                           # *#####...........| 
+  |///[                                   -----------.----# #     |..........| 
+  -----                                   |......<.......|###     |..........| 
+                                          |.............[-#       ------------ 
+                                          ----------------                     
+                                                                               
+asldhaioqgw the Evoker
+  Experience level: 1
+  Strength: 13
+  Dexterity: 13
+  Constitution: 13
+  Intelligence: 20
+  Wisdom: 11
+  Charisma: 9
+  Health: 0(11)
+  Energy: 2(7)
+  Def: 1
+  Gold: 0
+  Moves: 1086
+
+Dungeon seed: huB4heDi6c9n-sQg
+Game ID: asldhaioqgw_1437159551
+
+Your Inventory:
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Comestibles
+  q - an uncursed food ration
+  Scrolls
+  i - a blessed scroll of scare monster
+  j - an uncursed scroll of taming
+  k - an uncursed scroll of destroy armor
+  s - an uncursed scroll of scare monster
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of stone to flesh
+  Potions
+  f - an uncursed potion of water
+  g - an uncursed potion of see invisible
+  h - an uncursed potion of levitation
+  p - a blessed potion of extra healing
+  Rings
+  c - an uncursed ring of protection from shape changers
+  d - an uncursed ring of sustain ability
+  r - an uncursed ring of stealth
+  Wands
+  b - a wand of sleep (0:5)
+  Tools
+  n - an uncursed blindfold
+  o - an uncursed leather drum
+
+Spells known in the end:
+  Name               Level  Category    Fail    Memory
+  a - force bolt         1      attack      0%      95%   
+  b - stone to flesh     3      healing     77%     95%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  a kitten                
+  a goblin                
+  2 grid bugs             
+  2 lichens               
+  2 kobold zombies        
+  4 newts                 
+                          
+  12 creatures vanquished.
+
+Voluntary challenges:
+  You followed a strict vegan diet.                       
+  You were an atheist.                                    
+  You used a wielded weapon 8 times, starting on turn 128.
+  You were illiterate.                                    
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You never wrote Elbereth's name.                        
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                 
+        a fountain        
+        a long staircase  
+  Level 2 <- You were here
+        a wand shop       
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:580 you reached level 2 of The Dungeons of Doom.                    
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              2 levels   (  3.85%) ( 4200 points)
+  Discoveries:              1 item     (  0.36%) ( 1805 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         6 monsters (  1.57%) ( 3764 points)
+  Time penalty:          1086 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                     7815        
+
+Latest messages:
+  You miss Pontarfynach.
+  Pontarfynach hits! (2x)
+  You die...
+  Pontarfynach takes all your possessions.
+  <Do you want to see what you had when you died? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asldhaioqgw the Wizard, killed by a Ms. Pontarfynach, the shopkeeper...
+                                                                                 
+  You died in The Dungeons of Doom on dungeon level 2 with 7815 points,          
+  and 0 pieces of gold, after 1086 moves.                                        
+  You were level 1 with a maximum of 11 hit points when you died.                
+                                                                                 
+

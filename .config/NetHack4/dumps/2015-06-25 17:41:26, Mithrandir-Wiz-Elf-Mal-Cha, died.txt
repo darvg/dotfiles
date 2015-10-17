@@ -1,0 +1,160 @@
+Mithrandir, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                       ---                     
+                                                       ...                     
+                                                     --..                      
+                                                     |..                       
+                                                    --.--                      
+                                                  ---...---                    
+                                                  |.@..*<.|                    
+                                                  -.h.....-                    
+                                                 |......G..|                   
+                                                 |...---G....                  
+                                                 ----- |.....-                 
+                                                       -.......                
+                                                        .......-               
+                                                        .......|               
+                                                       -.-------               
+                                                       ---                     
+Mithrandir the Evoker
+  Experience level: 1
+  Strength: 11
+  Dexterity: 13
+  Constitution: 12
+  Intelligence: 20
+  Wisdom: 9
+  Charisma: 10
+  Health: 0(11)
+  Energy: 7(7)
+  Def: 1
+  Gold: 0
+  Moves: 393
+
+Dungeon seed: wH8K7go2lg3be7p9
+Game ID: Mithrandir_1435253777
+
+Your Inventory:
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Comestibles
+  p - 2 uncursed food rations
+  q - an uncursed banana
+  Scrolls
+  i - an uncursed scroll of gold detection
+  j - 2 uncursed scrolls of remove curse
+  Spellbooks
+  k - a blessed spellbook of force bolt
+  l - an uncursed spellbook of jumping
+  Potions
+  f - an uncursed potion of restore ability
+  g - a blessed potion of booze
+  h - an uncursed potion of healing
+  o - an uncursed potion of paralysis
+  Rings
+  c - an uncursed ring of teleportation
+  d - an uncursed ring of invisibility
+  Wands
+  b - a wand of undead turning (0:8)
+  Tools
+  m - an uncursed bell
+  r - an uncursed lock pick
+
+Spells known in the end:
+  Name           Level  Category   Fail   Memory
+  a - force bolt     1      attack     0%     99%   
+  b - jumping        1      escape     0%     99%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were magic-protected.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  a gnome                
+  2 grid bugs            
+  6 newts                
+                         
+  9 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                  
+  You were an atheist.                                    
+  You used a wielded weapon 8 times, starting on turn 5.  
+  You read items or engraved 1 time, starting on turn 132.
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You wrote Elbereth's name 1 time, starting on turn 132. 
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                                      
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                             
+        a sink                        
+        a long staircase              
+  Level 2                             
+        a fountain                    
+        stairs to The Gnomish Mines   
+                                      
+  The Gnomish Mines:
+  Level 3 <- You were here            
+        stairs to The Dungeons of Doom
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:211 you reached level 2 of The Dungeons of Doom.                    
+  On T:386 you reached level 1 of The Gnomish Mines.                       
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              3 levels   (  6.67%) ( 6396 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         3 monsters (  0.79%) ( 2662 points)
+  Time penalty:           393 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                     7246        
+
+Latest messages:
+  You miss the dwarf.
+  The dwarf swings her pick-axe.
+  The dwarf hits!
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Mithrandir the Wizard, killed by a dwarf...               
+                                                                    
+  You died in The Gnomish Mines on dungeon level 3 with 7246 points,
+  and 0 pieces of gold, after 393 moves.                            
+  You were level 1 with a maximum of 11 hit points when you died.   
+                                                                    
+

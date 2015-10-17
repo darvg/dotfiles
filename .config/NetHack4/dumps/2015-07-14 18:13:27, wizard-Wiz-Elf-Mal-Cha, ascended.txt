@@ -1,0 +1,616 @@
+wizard, chaotic male elven Wizard
+                                                                               
+                                 ---------------                               
+                                 |.............|                               
+                                 |..---------..|                               
+                                 |..|.......|..|                               
+   ---------------               |..|.......|..|               --------------- 
+   |.............|               |..|...@...|..|               |.............| 
+   |..---------..--   ---------  |..|.......|..|  ---------   --..---------..| 
+   |..|.......|...-- --.......-- |..|...W...|..| --.......-- --...|.......|..| 
+   |..|.......|....---.........--|..----.----..|--.........---....|.......|..| 
+   |..|..._...-.....-...........||.............||...........+.....-..._...|..| 
+   |..|.......|....---.........-----.........-----.........---....|.......|..| 
+   |..|.......|...-- --.......--   -----|-----   --.......-- --...|.......|..| 
+   |..---------..--   ----|----    --.......--    ----+----   --..---------..| 
+   |.............|      |...--------.........--------...|      |.............| 
+   ---------------      |.........|...........|.........|      --------------- 
+                        -------...--.........--...-------                      
+                              |....--.......--....|                            
+                              ---...----|----...---                            
+                                |...............|                              
+                                -----------------                              
+wizard the Mage
+  Experience level: 30
+  Strength: 10
+  Dexterity: 16
+  Constitution: 16
+  Intelligence: 13
+  Wisdom: 14
+  Charisma: 10
+  Health: 62(62)
+  Energy: 343(343)
+  Def: 0
+  Gold: 1451
+  Moves: 13021
+
+Dungeon seed: HQRnNrRXdP_EdMG7
+Game ID: wizard_1436294186
+
+Your Inventory:
+  Coins
+  $ - 1451 gold pieces
+  Amulets
+  H - a cursed amulet of restful sleep
+  Weapons
+  a - a burnt +0 quarterstaff
+  D - a cursed -3 silver dagger
+  L - a thoroughly burnt +1 elven broadsword (weapon in hand)
+  Armor
+  e - a cursed +0 cloak of magic resistance
+  x - an uncursed +0 elven cloak
+  Comestibles
+  t - an uncursed tripe ration
+  u - an uncursed cream pie
+  O - 3 cursed food rations
+  U - an uncursed orange
+  V - a cursed partly eaten food ration
+  Rings
+  w - an uncursed ring of poison resistance
+  Wands
+  b - a thoroughly rusty wand of slow monster (0:5)
+  T - a blessed wand of speed monster (0:8)
+  Tools
+  n - a magic marker (0:77)
+  P - an uncursed credit card
+  Q - an uncursed blindfold
+  Gems
+  q - an uncursed worthless piece of yellow glass
+  r - an uncursed worthless piece of white glass
+  y - 2 uncursed worthless pieces of green glass
+  z - 2 cursed worthless pieces of blue glass
+  E - a cursed topaz stone
+  K - 3 uncursed worthless pieces of violet glass
+  N - an uncursed worthless piece of red glass
+  X - 2 uncursed worthless pieces of blue glass
+  Y - an uncursed worthless piece of yellowish brown glass
+
+Spells known in the end:
+  Name                Level  Category        Fail    Memory
+  a - force bolt          1      attack          0%      50%   
+  b - confuse monster     2      enchantment     0%      50%   
+  c - detect monsters     1      divination      0%      51%   
+  d - cure blindness      2      healing         0%      56%   
+  e - slow monster        2      enchantment     0%      84%   
+  f - invisibility        4      escape          79%     90%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.                
+  Hunger level was 353.                    
+  Your alignment was 62 / 75.              
+  You were sleep resistant.                
+  You were warned.                         
+  You had infravision.                     
+  You had teleport control.                
+  Your luck was zero.                      
+  You survived after being killed 96 times.
+
+Vanquished creatures:
+  a ki-rin                 
+  a white dragon           
+  a black dragon           
+  a minotaur               
+  a stone golem            
+  a pit fiend              
+  a trapper                
+  a nurse                  
+  an Aleax                 
+  a golden naga            
+  a black pudding          
+  a vampire                
+  a ghost                  
+  a giant mimic            
+  an ogre king             
+  a flesh golem            
+  an Elvenking             
+  a large mimic            
+  a long worm              
+  an earth elemental       
+  3 xorns                  
+  a sergeant               
+  a barbed devil           
+  a warg                   
+  a winter wolf            
+  3 small mimics           
+  2 gelatinous cubes       
+  a flaming sphere         
+  a tiger                  
+  a dwarf king             
+  2 tengu                  
+  an ochre jelly           
+  2 leocrottas             
+  a red naga               
+  a pit viper              
+  a python                 
+  a cobra                  
+  an ettin zombie          
+  a leather golem          
+  2 watchmen               
+  a chameleon              
+  a giant beetle           
+  a cockatrice             
+  3 wolves                 
+  3 winter wolf cubs       
+  a gremlin                
+  a spotted jelly          
+  4 giant spiders          
+  a scorpion               
+  a black light            
+  a vampire bat            
+  2 gnome kings            
+  an orc mummy             
+  2 ogres                  
+  a rust monster           
+  an owlbear               
+  a yeti                   
+  a gold golem             
+  a werewolf               
+  a Green-elf              
+  a lizard                 
+  a chickatrice            
+  a dingo                  
+  a housecat               
+  3 jaguars                
+  a dwarf lord             
+  a snake                  
+  3 human zombies          
+  a rope golem             
+  2 soldier ants           
+  a bugbear                
+  an imp                   
+  a rock mole              
+  2 ponies                 
+  a fog cloud              
+  a yellow light           
+  17 gnome lords           
+  5 gnomish wizards        
+  a golden naga hatchling  
+  a gray ooze              
+  a barrow wight           
+  a ghoul                  
+  a straw golem            
+  a giant ant              
+  a little dog             
+  a floating eye           
+  a kitten                 
+  26 dwarves               
+  a kobold lord            
+  8 hill orcs              
+  2 rothes                 
+  2 rabid rats             
+  2 centipedes             
+  3 giant bats             
+  a wererat                
+  5 iguanas                
+  an acid blob             
+  a coyote                 
+  a gas spore              
+  5 hobbits                
+  a large kobold           
+  a giant rat              
+  a cave spider            
+  2 red molds              
+  67 gnomes                
+  5 garter snakes          
+  a gecko                  
+  2 jackals                
+  a fox                    
+  a goblin                 
+  3 sewer rats             
+  3 lichens                
+  a kobold zombie          
+  3 newts                  
+                           
+  280 creatures vanquished.
+
+Voluntary challenges:
+  You followed a strict vegan diet.                                                   
+  You had did not eat until turn 5183.                                                
+  You used a wielded weapon 1554 times, starting on turn 20.                          
+  You read items or engraved 39 times, starting on turn 1209.                         
+  You never genocided any monsters.                                                   
+  You never polymorphed an object.                                                    
+  You never changed form.                                                             
+  You used no wishes.                                                                 
+  You never split a pudding.                                                          
+  You wrote Elbereth's name 2 times, starting on turn 3026.                           
+  You violated your moral code, losing 165 points of alignment, starting on turn 2155.
+
+Dungeon overview:
+                                                     
+  The Dungeons of Doom: levels 1 to 25
+  Level 1                                            
+        a sink                                       
+        stairs to The Elemental Planes               
+  Level 2                                            
+        a fountain                                   
+  Level 3                                            
+        a general store, a fountain                  
+        stairs to The Gnomish Mines                  
+  Level 4                                            
+  Level 6                                            
+        a fountain                                   
+  Level 7                                            
+  Level 8                                            
+        many fountains                               
+  Level 9                                            
+        stairs to Sokoban                            
+  Level 10                                           
+  Level 11                                           
+  Level 12                                           
+        a potion shop                                
+        a magic portal                               
+  Level 13                                           
+        an altar to Thoth , a fountain, a sink       
+  Level 14                                           
+        portal to The Quest                          
+  Level 15                                           
+  Level 16                                           
+  Level 17                                           
+  Level 18                                           
+        a fountain, a throne                         
+  Level 19                                           
+        some altars to Ptah                          
+  Level 20                                           
+        a temple to Thoth , a sink                   
+  Level 21                                           
+        a jewelry store, some fountains              
+  Level 22                                           
+        a throne                                     
+  Level 23                                           
+  Level 24                                           
+        a throne                                     
+  Level 25                                           
+        a fountain, a throne                         
+                                                     
+  Gehennom: levels 26 to 49
+  Level 26                                           
+        a temple to Moloch                           
+        stairs to The Dungeons of Doom               
+  Level 27                                           
+  Level 28                                           
+  Level 29                                           
+  Level 30                                           
+        a fountain                                   
+  Level 31                                           
+  Level 32                                           
+  Level 33                                           
+  Level 34                                           
+  Level 35                                           
+  Level 36                                           
+        a long staircase                             
+  Level 37                                           
+  Level 38                                           
+  Level 39                                           
+        some shops, an altar to Moloch               
+  Level 40                                           
+  Level 41                                           
+  Level 42                                           
+  Level 43                                           
+        portal to Gehennom                           
+  Level 44                                           
+  Level 45                                           
+  Level 46                                           
+  Level 47                                           
+        portal to Gehennom                           
+  Level 48                                           
+  Level 49                                           
+                                                     
+  The Gnomish Mines: levels 4 to 12
+  Level 4                                            
+        stairs to The Dungeons of Doom               
+  Level 5                                            
+  Level 6                                            
+  Level 7                                            
+        many shops, a temple to Ptah , some fountains
+  Level 8                                            
+  Level 9                                            
+  Level 10                                           
+  Level 11                                           
+  Level 12                                           
+                                                     
+  The Quest:
+  Level 1                                            
+        a throne                                     
+        portal to The Dungeons of Doom               
+                                                     
+  Sokoban: levels 7 to 8
+  Level 7                                            
+  Level 8                                            
+        stairs to The Dungeons of Doom               
+                                                     
+  The Elemental Planes:
+  Astral Plane <- You were here                      
+        some high altars                             
+  Plane 4                                            
+        portal to The Elemental Planes               
+  Plane 3                                            
+        portal to The Elemental Planes               
+  Plane 2                                            
+        portal to The Elemental Planes               
+  Plane 1                                            
+        portal to The Elemental Planes               
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!                  
+  On T:14 you advanced to experience level 2.                                                
+  On T:14 you advanced to experience level 3.                                                
+  On T:14 you advanced to experience level 4.                                                
+  On T:14 you advanced to experience level 5.                                                
+  On T:14 you advanced to experience level 6.                                                
+  On T:14 you advanced to experience level 7.                                                
+  On T:14 you advanced to experience level 8.                                                
+  On T:14 you advanced to experience level 9.                                                
+  On T:14 you advanced to experience level 10.                                               
+  On T:14 you advanced to experience level 11.                                               
+  On T:14 you advanced to experience level 12.                                               
+  On T:14 you advanced to experience level 13.                                               
+  On T:14 you advanced to experience level 14.                                               
+  On T:14 you advanced to experience level 15.                                               
+  On T:1185 you reached level 2 of The Dungeons of Doom.                                     
+  On T:1784 you advanced to experience level 2.                                              
+  On T:1784 you advanced to experience level 3.                                              
+  On T:1784 you advanced to experience level 4.                                              
+  On T:1784 you advanced to experience level 5.                                              
+  On T:1784 you advanced to experience level 6.                                              
+  On T:1784 you advanced to experience level 7.                                              
+  On T:1784 you advanced to experience level 8.                                              
+  On T:1784 you advanced to experience level 9.                                              
+  On T:1784 you advanced to experience level 10.                                             
+  On T:1784 you advanced to experience level 11.                                             
+  On T:1784 you advanced to experience level 12.                                             
+  On T:1784 you advanced to experience level 13.                                             
+  On T:1784 you advanced to experience level 14.                                             
+  On T:1784 you advanced to experience level 15.                                             
+  On T:1784 you advanced to experience level 16.                                             
+  On T:1784 you advanced to experience level 17.                                             
+  On T:1784 you advanced to experience level 18.                                             
+  On T:1784 you advanced to experience level 19.                                             
+  On T:1784 you advanced to experience level 20.                                             
+  On T:1784 you advanced to experience level 21.                                             
+  On T:1784 you advanced to experience level 22.                                             
+  On T:1784 you advanced to experience level 23.                                             
+  On T:1784 you advanced to experience level 24.                                             
+  On T:1784 you advanced to experience level 25.                                             
+  On T:1784 you advanced to experience level 26.                                             
+  On T:1784 you advanced to experience level 27.                                             
+  On T:1784 you advanced to experience level 28.                                             
+  On T:1784 you advanced to experience level 29.                                             
+  On T:1784 you advanced to experience level 30.                                             
+  On T:1790 you reached level 3 of The Dungeons of Doom.                                     
+  On T:1895 you reached level 1 of The Gnomish Mines.                                        
+  On T:2601 you reached level 2 of The Gnomish Mines.                                        
+  On T:2950 you reached level 3 of The Gnomish Mines.                                        
+  On T:3437 you reached level 4 of The Gnomish Mines.                                        
+  On T:4275 you reached level 5 of The Gnomish Mines.                                        
+  On T:4352 you were saved from death by your wizard powers!                                 
+  On T:4352 you were saved from death by your wizard powers!                                 
+  On T:4358 you were saved from death by your wizard powers!                                 
+  On T:4358 you were saved from death by your wizard powers!                                 
+  On T:4358 you were saved from death by your wizard powers!                                 
+  On T:4359 you were saved from death by your wizard powers!                                 
+  On T:4359 you were saved from death by your wizard powers!                                 
+  On T:4360 you were saved from death by your wizard powers!                                 
+  On T:4360 you were saved from death by your wizard powers!                                 
+  On T:4360 you were saved from death by your wizard powers!                                 
+  On T:4360 you were saved from death by your wizard powers!                                 
+  On T:4360 you were saved from death by your wizard powers!                                 
+  On T:4361 you were saved from death by your wizard powers!                                 
+  On T:4361 you were saved from death by your wizard powers!                                 
+  On T:4361 you were saved from death by your wizard powers!                                 
+  On T:4361 you were saved from death by your wizard powers!                                 
+  On T:4374 you were saved from death by your wizard powers!                                 
+  On T:4374 you were saved from death by your wizard powers!                                 
+  On T:4374 you were saved from death by your wizard powers!                                 
+  On T:4374 you were saved from death by your wizard powers!                                 
+  On T:4379 you were saved from death by your wizard powers!                                 
+  On T:4512 you were saved from death by your wizard powers!                                 
+  On T:4512 you were saved from death by your wizard powers!                                 
+  On T:4513 you were saved from death by your wizard powers!                                 
+  On T:4513 you were saved from death by your wizard powers!                                 
+  On T:4513 you were saved from death by your wizard powers!                                 
+  On T:4514 you were saved from death by your wizard powers!                                 
+  On T:4514 you were saved from death by your wizard powers!                                 
+  On T:4514 you were saved from death by your wizard powers!                                 
+  On T:4514 you were saved from death by your wizard powers!                                 
+  On T:4615 you reached level 6 of The Gnomish Mines.                                        
+  On T:5159 you reached level 7 of The Gnomish Mines.                                        
+  On T:5431 you reached level 8 of The Gnomish Mines.                                        
+  On T:5539 you reached level 9 of The Gnomish Mines.                                        
+  On T:5597 you were saved from death by your wizard powers!                                 
+  On T:5605 you were saved from death by your wizard powers!                                 
+  On T:5609 you were saved from death by your wizard powers!                                 
+  On T:5627 you were saved from death by your wizard powers!                                 
+  On T:5639 you were saved from death by your wizard powers!                                 
+  On T:5643 you were saved from death by your wizard powers!                                 
+  On T:5996 you were saved from death by your wizard powers!                                 
+  On T:6001 you were saved from death by your wizard powers!                                 
+  On T:6007 you were saved from death by your wizard powers!                                 
+  On T:6466 you reached level 4 of The Dungeons of Doom.                                     
+  On T:6599 you reached level 6 of The Dungeons of Doom.                                     
+  On T:7027 you reached level 7 of The Dungeons of Doom.                                     
+  On T:7344 you reached level 8 of The Dungeons of Doom.                                     
+  On T:7500 you reached level 9 of The Dungeons of Doom.                                     
+  On T:7691 you reached level 4 of Sokoban.                                                  
+  On T:7780 you reached level 3 of Sokoban.                                                  
+  On T:8014 you reached level 10 of The Dungeons of Doom.                                    
+  On T:8207 you reached level 11 of The Dungeons of Doom.                                    
+  On T:8553 you reached level 12 of The Dungeons of Doom.                                    
+  On T:8824 you reached level 13 of The Dungeons of Doom.                                    
+  On T:8923 you were saved from death by your wizard powers!                                 
+  On T:8951 you reached level 14 of The Dungeons of Doom.                                    
+  On T:9022 you reached level 1 of The Quest.                                                
+  On T:9319 you were saved from death by your wizard powers!                                 
+  On T:9529 you were saved from death by your wizard powers!                                 
+  On T:9539 you were saved from death by your wizard powers!                                 
+  On T:9927 you reached level 15 of The Dungeons of Doom.                                    
+  On T:10129 you reached level 16 of The Dungeons of Doom.                                   
+  On T:10152 you reached level 17 of The Dungeons of Doom.                                   
+  On T:10178 you reached level 18 of The Dungeons of Doom.                                   
+  On T:10252 you reached level 19 of The Dungeons of Doom.                                   
+  On T:10326 you reached level 20 of The Dungeons of Doom.                                   
+  On T:10390 you reached level 21 of The Dungeons of Doom.                                   
+  On T:10470 you reached level 22 of The Dungeons of Doom.                                   
+  On T:10504 you reached level 23 of The Dungeons of Doom.                                   
+  On T:10582 you reached level 24 of The Dungeons of Doom.                                   
+  On T:10633 you reached The Castle.                                                         
+  On T:10638 you reached The Valley of the Dead.                                             
+  On T:10705 you were saved from death by your wizard powers!                                
+  On T:10771 you reached level 2 of Gehennom.                                                
+  On T:10775 you reached level 3 of Gehennom.                                                
+  On T:10777 you were saved from death by your wizard powers!                                
+  On T:10779 you reached level 4 of Gehennom.                                                
+  On T:10781 you reached level 5 of Gehennom.                                                
+  On T:10783 you reached level 6 of Gehennom.                                                
+  On T:10785 you reached level 7 of Gehennom.                                                
+  On T:10786 you reached level 8 of Gehennom.                                                
+  On T:10789 you reached level 9 of Gehennom.                                                
+  On T:10792 you reached level 10 of Gehennom.                                               
+  On T:10797 you reached level 11 of Gehennom.                                               
+  On T:10799 you reached level 12 of Gehennom.                                               
+  On T:10800 you reached level 13 of Gehennom.                                               
+  On T:10805 you reached level 14 of Gehennom.                                               
+  On T:10808 you reached level 15 of Gehennom.                                               
+  On T:10811 you reached level 16 of Gehennom.                                               
+  On T:10816 you reached level 17 of Gehennom.                                               
+  On T:10819 you reached level 18 of Gehennom.                                               
+  On T:10884 you reached level 19 of Gehennom.                                               
+  On T:10885 you reached level 20 of Gehennom.                                               
+  On T:10886 you reached level 21 of Gehennom.                                               
+  On T:10895 you reached level 22 of Gehennom.                                               
+  On T:10901 you reached level 23 of Gehennom.                                               
+  On T:10910 you reached level 24 of Gehennom.                                               
+  On T:10986 you gained the Amulet of Yendor!                                                
+  On T:11123 you reached the Plane of Earth.                                                 
+  On T:11128 you were saved from death by your wizard powers!                                
+  On T:11131 you were saved from death by your wizard powers!                                
+  On T:11135 you were saved from death by your wizard powers!                                
+  On T:11138 you were saved from death by your wizard powers!                                
+  On T:11142 you were saved from death by your wizard powers!                                
+  On T:11144 you were saved from death by your wizard powers!                                
+  On T:11147 you were saved from death by your wizard powers!                                
+  On T:11151 you were saved from death by your wizard powers!                                
+  On T:11155 you were saved from death by your wizard powers!                                
+  On T:11158 you were saved from death by your wizard powers!                                
+  On T:11161 you were saved from death by your wizard powers!                                
+  On T:11163 you were saved from death by your wizard powers!                                
+  On T:11166 you were saved from death by your wizard powers!                                
+  On T:11169 you were saved from death by your wizard powers!                                
+  On T:11171 you were saved from death by your wizard powers!                                
+  On T:11197 you were saved from death by your wizard powers!                                
+  On T:11229 you were saved from death by your wizard powers!                                
+  On T:11249 you were saved from death by your wizard powers!                                
+  On T:11281 you were saved from death by your wizard powers!                                
+  On T:11327 you were saved from death by your wizard powers!                                
+  On T:11367 you were saved from death by your wizard powers!                                
+  On T:11374 you were saved from death by your wizard powers!                                
+  On T:11382 you were saved from death by your wizard powers!                                
+  On T:11389 you were saved from death by your wizard powers!                                
+  On T:11462 you were saved from death by your wizard powers!                                
+  On T:11480 you were saved from death by your wizard powers!                                
+  On T:11492 you were saved from death by your wizard powers!                                
+  On T:11508 you were saved from death by your wizard powers!                                
+  On T:11516 you were saved from death by your wizard powers!                                
+  On T:11524 you were saved from death by your wizard powers!                                
+  On T:11533 you were saved from death by your wizard powers!                                
+  On T:11557 you were saved from death by your wizard powers!                                
+  On T:11561 you were saved from death by your wizard powers!                                
+  On T:11564 you were saved from death by your wizard powers!                                
+  On T:11567 you were saved from death by your wizard powers!                                
+  On T:11571 you were saved from death by your wizard powers!                                
+  On T:11581 you reached the Plane of Air.                                                   
+  On T:11587 you were saved from death by your wizard powers!                                
+  On T:11748 you were saved from death by your wizard powers!                                
+  On T:11768 you were saved from death by your wizard powers!                                
+  On T:11785 you were saved from death by your wizard powers!                                
+  On T:11805 you were saved from death by your wizard powers!                                
+  On T:11806 you were saved from death by your wizard powers!                                
+  On T:11806 you were saved from death by your wizard powers!                                
+  On T:11864 you reached the Plane of Fire.                                                  
+  On T:12085 you were saved from death by your wizard powers!                                
+  On T:12710 you were saved from death by your wizard powers!                                
+  On T:12714 you were saved from death by your wizard powers!                                
+  On T:12721 you were saved from death by your wizard powers!                                
+  On T:12728 you were saved from death by your wizard powers!                                
+  On T:12728 you were saved from death by your wizard powers!                                
+  On T:12732 you were saved from death by your wizard powers!                                
+  On T:12756 you reached the Plane of Water.                                                 
+  On T:12896 you were saved from death by your wizard powers!                                
+  On T:12922 you reached the Astral Plane.                                                   
+  On T:13021 you lost the Amulet of Yendor.                                                  
+  On T:13021 you offered the Amulet of Yendor to Anhur and ascended to the status of Demigod!
+
+Score breakdown:
+  Gold:                  1451                    (10755 points)
+  Experience:              30 levels             (30000 points)
+  Exploration:             49 levels   (100.00%) (30000 points)
+  Discoveries:              2 items    (  0.72%) ( 2553 points)
+  Valuables value:       1050                    (10278 points)
+  Artifact value:           0                    (    0 points)
+  Variety of kills:       114 monsters ( 29.92%) (16410 points)
+  Time penalty:         13021 turns              (-2768 points)
+  Survival:          ascended  (score multiplied by 200%)      
+                                                               
+  Total score:                                   194456        
+
+Latest messages:
+  It hits! (3x)
+  You hear a mumbled curse.
+  It hits!
+  You die...
+  <Die? [yn]: n>
+  OK, so you don't die.
+  You survived that attempt on your life.
+  It hits! (2x)
+  Something casts a spell at you!
+  Your head suddenly aches very painfully!
+  It hits! (2x)
+  You die...
+  <Die? [yn]: n>
+  OK, so you don't die.
+  You survived that attempt on your life.
+  <What do you want to sacrifice? [J or ?*]: J>
+  You take off your Amulet of Yendor.
+  You offer the Amulet of Yendor to Anhur...
+  An invisible choir sings, and you are bathed in radiance...
+  The voice of Anhur booms: "Congratulations, mortal!"
+  "In return for thy service, I grant thee the gift of Immortality!"
+  You ascend to the status of Demigod...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want an account of creatures vanquished? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye wizard the Demigod, ascended...                             
+                                                                      
+  You went to your reward with 194456 points,                         
+        13 worthless pieces of colored glass,                         
+         1 topaz stone (worth 900 zorkmids),                          
+         1 amulet of restful sleep (worth 150 zorkmids),              
+  and 1451 pieces of gold, after 13021 moves.                         
+  You were level 30 with a maximum of 62 hit points when you ascended.
+                                                                      
+

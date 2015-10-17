@@ -1,0 +1,132 @@
+asd, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                              ------                           
+                                              ....@.                           
+                                              |.?.f|                           
+                                              |....                            
+                                              ------                           
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+asd the Evoker
+  Experience level: 1
+  Strength: 12
+  Dexterity: 9
+  Constitution: 14
+  Intelligence: 20
+  Wisdom: 8
+  Charisma: 13
+  Health: 11(11)
+  Energy: 9(9)
+  Def: 1
+  Gold: 0
+  Moves: 1
+
+Dungeon seed: 30JkxKqRTNLo955R
+Game ID: asd_1437503406
+
+Your Inventory:
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - 2 uncursed scrolls of light
+  j - a blessed scroll of light
+  Spellbooks
+  k - a blessed spellbook of force bolt
+  l - an uncursed spellbook of extra healing
+  Potions
+  f - an uncursed potion of invisibility
+  g - an uncursed potion of restore ability
+  h - an uncursed potion of confusion
+  Rings
+  c - an uncursed ring of regeneration
+  d - an uncursed +1 ring of protection
+  Wands
+  b - a blessed wand of teleportation (0:4)
+  Tools
+  m - an uncursed leather drum
+
+Spells known in the end:
+  Name              Level  Category    Fail    Memory
+  a - force bolt        1      attack      0%      100%  
+  b - extra healing     3      healing     77%     100%  
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were nominally aligned.
+  You were magic-protected.  
+  You had infravision.       
+  You survived.              
+
+Voluntary challenges:
+  You went without food.                      
+  You were an atheist.                        
+  You never hit with a wielded weapon.        
+  You were a pacifist.                        
+  You were illiterate.                        
+  You never genocided any monsters.           
+  You never polymorphed an object.            
+  You never changed form.                     
+  You used no wishes.                         
+  You never split a pudding.                  
+  You never wrote Elbereth's name.            
+  You never violated your personal moral code.
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.17%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         0 monsters (  0.00%) (    0 points)
+  Time penalty:             1 turn               (    0 points)
+  Survival:              quit  (score multiplied by  90%)      
+                                                               
+  Total score:                                        0        
+
+Latest messages:
+  There is a long staircase up here.
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asd the Wizard, quit...                                   
+                                                                    
+  You quit in The Dungeons of Doom on dungeon level 1 with 0 points,
+  and 0 pieces of gold, after 1 move.                               
+  You were level 1 with a maximum of 11 hit points when you quit.   
+                                                                    
+

@@ -1,0 +1,144 @@
+ghno, neutral male human Tourist
+                                                                               
+                                                                               
+                                ----------------                               
+                              ##-..............-                               
+         #                    # |..............|                               
+    -----|-------             # |..............|                               
+    |............#            # |..............|                               
+    |.......<...|#            # ------.---------                               
+    |...........|#            #       ##                                       
+    ---------.---#            #        #                                       
+             #   #            #        ##                                      
+       ###################    #      ---.------   #                            
+           #     #   ----.----#      |........-###`                            
+    #`###############-.......|#      |........| ###                            
+  --.--   #      ### |........#      |.......>| #### --.--                     
+  |...-########### % |.......|       |.........##  # |@r.|                     
+  |..`| #          ##........-#      ----------    ##-.d)|                     
+  |*...##            ---------                       |...|                     
+  -----                                              |...|                     
+                                                     -----                     
+                                                                               
+ghno the Rambler
+  Experience level: 1
+  Strength: 14
+  Dexterity: 9
+  Constitution: 17
+  Intelligence: 12
+  Wisdom: 10
+  Charisma: 13
+  Health: 0(10)
+  Energy: 2(2)
+  Def: 0
+  Gold: 969
+  Moves: 488
+
+Dungeon seed: mG8sH-2-7c-aSMaW
+Game ID: ghno_1437500345
+
+Your Inventory:
+  Coins
+  $ - 969 gold pieces
+  Weapons
+  a - 37 +2 darts (in quiver)
+  o - 11 +0 crossbow bolts
+  p - a +0 orcish dagger (weapon in hand)
+  q - 6 +2 darts
+  Armor
+  e - an uncursed +0 Hawaiian shirt (being worn)
+  Comestibles
+  b - an uncursed slime mold
+  c - 2 uncursed tripe rations
+  d - an uncursed tin of lichen
+  f - 3 uncursed food rations
+  g - an uncursed pear
+  h - an uncursed tin of newt meat
+  i - an uncursed lembas wafer
+  Scrolls
+  k - 4 uncursed scrolls of magic mapping
+  Potions
+  j - 2 uncursed potions of extra healing
+  r - a blessed potion of paralysis
+  Wands
+  n - a wand of teleportation (0:7)
+  Tools
+  l - an expensive camera (0:40)
+  m - an uncursed credit card
+
+Spells known in the end:
+  Name Level Category Fail Memory
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   dart [Basic]
+  Spellcasting Skills
+
+Final Attributes:
+  You were stridently aligned.
+  You are dead.               
+
+Vanquished creatures:
+  a fox                  
+  a kobold               
+  2 goblins              
+  2 lichens              
+  a kobold zombie        
+                         
+  7 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                  
+  You were an atheist.                                    
+  You used a wielded weapon 2 times, starting on turn 414.
+  You were illiterate.                                    
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You never wrote Elbereth's name.                        
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                    51                    ( 5837 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.00%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         5 monsters (  1.31%) ( 3436 points)
+  Time penalty:           488 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                     7418        
+
+Latest messages:
+  r - a purple-red potion.
+  The little dog misses the sewer rat.
+  The sewer rat bites!
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Aloha ghno the Tourist, killed by a sewer rat...                     
+                                                                       
+  You died in The Dungeons of Doom on dungeon level 1 with 7418 points,
+  and 969 pieces of gold, after 488 moves.                             
+  You were level 1 with a maximum of 10 hit points when you died.      
+                                                                       
+

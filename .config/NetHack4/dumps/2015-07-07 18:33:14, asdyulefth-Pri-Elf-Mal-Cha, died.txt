@@ -1,0 +1,151 @@
+asdyulefth, chaotic male elven Priest
+                                                                               
+                                    ###############    --------------          
+                                    #------------ #    |...>........|          
+                                    #|...`....%..######-^...........|          
+                                    #|..........|   # #|............|          
+       ----------------             #|..........|   ###|............|          
+       |..........$..d|             #|...........     #+............|          
+       |............F@-##############---.---.----     #------------.-          
+       |.............d|                  #  #         ##%#####     ####        
+       -+- ------------                  ####          %     #        #        
+                                         ####`        `#     ###      ###      
+                                          #            #       #        #      
+                                 ---------.-                   ###------.-     
+                     -----       |.........|                     #.......|     
+                     +...|      #-..........                      |......|     
+                     |..`.#######|.........|                      |......|     
+                     |..%|       -----------                      |......|     
+                     -----                                        .......|     
+                                                                  --------     
+                                                                               
+                                                                               
+asdyulefth the Aspirant
+  Experience level: 2
+  Strength: 13
+  Dexterity: 14
+  Constitution: 16
+  Intelligence: 7
+  Wisdom: 18
+  Charisma: 11
+  Health: 0(23)
+  Energy: 8(13)
+  Def: 3
+  Gold: 16
+  Moves: 782
+
+Dungeon seed: qy-Dls1fngjYZ9lz
+Game ID: asdyulefth_1436293686
+
+Your Inventory:
+  Coins
+  $ - 16 gold pieces
+  Weapons
+  a - a blessed +1 mace (weapon in hand)
+  Armor
+  e - a +0 robe (being worn)
+  n - a +0 small shield (being worn)
+  r - a blessed +0 orcish helm
+  Comestibles
+  c - a clove of garlic
+  d - 2 sprigs of wolfsbane
+  Spellbooks
+  f - a spellbook of detect unseen
+  g - a spellbook of light
+  Potions
+  b - 4 potions of holy water
+  Tools
+  h - a bugle
+  Gems
+  q - a worthless piece of white glass
+
+Spells known in the end:
+  Name              Level  Category       Fail    Memory
+  a - detect unseen     3      divination     82%     97%   
+  b - light             1      divination     0%      97%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   mace            [Basic]
+  Spellcasting Skills
+   clerical spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You had infravision.     
+  You are dead.            
+
+Vanquished creatures:
+  2 coyotes               
+  3 jackals               
+  a fox                   
+  2 goblins               
+  2 sewer rats            
+  2 grid bugs             
+  2 lichens               
+  4 newts                 
+                          
+  18 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                  
+  You were an atheist.                                    
+  You used a wielded weapon 16 times, starting on turn 2. 
+  You read items or engraved 1 time, starting on turn 357.
+  You never genocided any monsters.                       
+  You never polymorphed an object.                        
+  You never changed form.                                 
+  You used no wishes.                                     
+  You never split a pudding.                              
+  You wrote Elbereth's name 1 time, starting on turn 357. 
+  You never violated your personal moral code.            
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                 
+        a fountain        
+        a long staircase  
+  Level 2 <- You were here
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:518 you reached level 2 of The Dungeons of Doom.                    
+  On T:520 you advanced to experience level 2.                             
+
+Score breakdown:
+  Gold:                    16                    ( 4185 points)
+  Experience:               2 levels             ( 5570 points)
+  Exploration:              2 levels   (  3.77%) ( 4160 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         8 monsters (  2.10%) ( 4347 points)
+  Time penalty:           782 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    14609        
+
+Latest messages:
+  There are a few objects here.
+  The jackal misses.
+  The jackal bites!
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye asdyulefth the Priest, killed by a jackal...                  
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 2 with 14609 points,
+  and 16 pieces of gold, after 782 moves.                               
+  You were level 2 with a maximum of 23 hit points when you died.       
+                                                                        
+

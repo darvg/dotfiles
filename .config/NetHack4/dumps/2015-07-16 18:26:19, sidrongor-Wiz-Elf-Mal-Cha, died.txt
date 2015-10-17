@@ -1,0 +1,180 @@
+sidrongor, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                         ##                                                    
+                         #                                                     
+                       ###                                                     
+                       #                                                       
+                     ###                                                       
+                  #  #                                                         
+                 I############*##                                              
+                 -.-.-----------                                               
+                 |..............                                               
+                 |.............|                                               
+                 |.............|                                               
+                 |...<.........|                                               
+                 ---------------                                               
+                                                                               
+sidrongor the Conjurer
+  Experience level: 4
+  Strength: 12
+  Dexterity: 15
+  Constitution: 14
+  Intelligence: 18
+  Wisdom: 8
+  Charisma: 10
+  Health: 21(35)
+  Energy: 41(41)
+  Def: 0
+  Gold: 705
+  Moves: 3107
+
+Dungeon seed: Yuf1a1AZTT6vZ5X-
+Game ID: sidrongor_1437070149
+
+Your Inventory:
+  Coins
+  $ - 705 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  t - a blessed +0 elven dagger (alternate weapon; not wielded)
+  Scrolls
+  i - an uncursed scroll of magic mapping
+  j - an uncursed scroll of light
+  k - an uncursed scroll of enchant armor
+  p - a blessed scroll of magic mapping
+  v - 2 uncursed scrolls of blank paper
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of confuse monster
+  Potions
+  f - an uncursed potion of paralysis
+  g - an uncursed potion of levitation
+  h - an uncursed potion of oil
+  r - an uncursed potion of healing
+  Rings
+  c - an uncursed ring of regeneration (on left hand)
+  d - an uncursed ring of polymorph
+  u - an uncursed ring of fire resistance
+  Wands
+  b - a wand of light (0:15)
+  s - a blessed wand of teleportation (0:7)
+  Tools
+  n - an uncursed blindfold
+  o - an uncursed wooden harp
+
+Spells known in the end:
+  Name                Level  Category        Fail   Memory
+  a - force bolt          1      attack          0%     85%   
+  b - confuse monster     2      enchantment     0%     85%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were piously aligned.
+  You were sleep resistant.
+  You had infravision.     
+  You regenerated.         
+  You were unlucky.        
+  Anhur was angry with you.
+  You are dead.            
+
+Vanquished creatures:
+  a shrieker              
+  a paper golem           
+  a rabid rat             
+  a dwarf zombie          
+  a wererat               
+  2 hobbits               
+  a large kobold          
+  a yellow mold           
+  a green mold            
+  2 geckos                
+  19 jackals              
+  3 foxen                 
+  2 kobolds               
+  3 goblins               
+  4 sewer rats            
+  4 bats                  
+  13 lichens              
+  10 newts                
+                          
+  70 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                   
+  You used a wielded weapon 50 times, starting on turn 95. 
+  You read items or engraved 1 time, starting on turn 1994.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You changed form 2 times, starting on turn 2457.         
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You wrote Elbereth's name 1 time, starting on turn 1994. 
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 4
+  Level 1                 
+        a long staircase  
+  Level 2                 
+        a fountain, a sink
+  Level 3                 
+  Level 4 <- You were here
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:277 you advanced to experience level 2.                             
+  On T:1270 you advanced to experience level 3.                            
+  On T:1362 you reached level 2 of The Dungeons of Doom.                   
+  On T:2039 you advanced to experience level 4.                            
+  On T:2091 you reached level 3 of The Dungeons of Doom.                   
+  On T:2740 you reached level 4 of The Dungeons of Doom.                   
+
+Score breakdown:
+  Gold:                   705                    ( 9690 points)
+  Experience:               4 levels             ( 9649 points)
+  Exploration:              4 levels   (  7.55%) ( 7205 points)
+  Discoveries:              1 item     (  0.36%) ( 1802 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:        18 monsters (  4.72%) ( 6520 points)
+  Time penalty:          3107 turns              ( -651 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    27372        
+
+Latest messages:
+  You hit the gray ooze!
+  You faint from lack of food.
+  It bites! (3x)
+  You die from starvation.
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye sidrongor the Wizard, died of starvation, while fainted from lack of food...
+                                                                                      
+  You starved in The Dungeons of Doom on dungeon level 4 with 27372 points,           
+  and 705 pieces of gold, after 3107 moves.                                           
+  You were level 4 with a maximum of 35 hit points when you starved.                  
+                                                                                      
+

@@ -1,0 +1,146 @@
+khsdrognif, chaotic male elven Wizard
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                    -----------                                
+                         -------   `..........|                                
+                         |.^....####|.........|                                
+         ---------       |.....| ## |.%.@.....|                                
+         |<......|       |..`..+####...:.Z....|                                
+         |........#      ----.--    |.........|                                
+         |.......|#       #  #      -----------                                
+         ---------#        ###                                                 
+                  #        #                                                   
+                  ###      #                                                   
+                    #      #                                                   
+                    ###----.--                                                 
+                      #......|                                                 
+                       |.....|                     #.                          
+                       |......#####################`                           
+                       -------                                                 
+                                                                               
+khsdrognif the Evoker
+  Experience level: 1
+  Strength: 12
+  Dexterity: 10
+  Constitution: 14
+  Intelligence: 20
+  Wisdom: 10
+  Charisma: 9
+  Health: 0(11)
+  Energy: 9(9)
+  Def: 1
+  Gold: 17
+  Moves: 273
+
+Dungeon seed: 09eJ4RPgLrtAVgtG
+Game ID: khsdrognif_1435257279
+
+Your Inventory:
+  Coins
+  $ - 17 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - a blessed +0 cloak of magic resistance (being worn)
+  Comestibles
+  o - an uncursed fortune cookie
+  Scrolls
+  i - 2 uncursed scrolls of identify
+  j - an uncursed scroll of create monster
+  Spellbooks
+  k - a blessed spellbook of force bolt
+  l - an uncursed spellbook of light
+  Potions
+  f - a blessed potion of extra healing
+  g - an uncursed potion of see invisible
+  h - an uncursed potion of paralysis
+  Rings
+  c - an uncursed ring of fire resistance
+  d - an uncursed ring of regeneration
+  Wands
+  b - a wand of create monster (0:14)
+  Tools
+  m - an uncursed bell
+  Gems
+  n - 3 uncursed rocks
+
+Spells known in the end:
+  Name           Level  Category       Fail   Memory
+  a - force bolt     1      attack         0%     99%   
+  b - light          1      divination     0%     99%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were fervently aligned.
+  You were magic-protected.  
+  You had infravision.       
+  You are dead.              
+
+Vanquished creatures:
+  a kitten               
+  2 jackals              
+  a fox                  
+                         
+  4 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                 
+  You were an atheist.                                   
+  You used a wielded weapon 2 times, starting on turn 41.
+  You were illiterate.                                   
+  You never genocided any monsters.                      
+  You never polymorphed an object.                       
+  You never changed form.                                
+  You used no wishes.                                    
+  You never split a pudding.                             
+  You never wrote Elbereth's name.                       
+  You never violated your personal moral code.           
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                    17                    ( 4270 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.13%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         3 monsters (  0.79%) ( 2662 points)
+  Time penalty:           273 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                     5545        
+
+Latest messages:
+  The kobold zombie hits!
+  You die...
+  <Do you want your possessions identified? [ynq]: n>
+  <Do you want to see your attributes? [ynq]: n>
+  <Do you want an account of creatures vanquished? [ynq]: n>
+  <Do you want to see your conduct? [ynq]: n>
+  <Do you want to see a breakdown of your score? [ynq]: n>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye khsdrognif the Wizard, killed by a kobold zombie...          
+                                                                       
+  You died in The Dungeons of Doom on dungeon level 1 with 5545 points,
+  and 17 pieces of gold, after 273 moves.                              
+  You were level 1 with a maximum of 11 hit points when you died.      
+                                                                       
+
