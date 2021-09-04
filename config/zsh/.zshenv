@@ -1,0 +1,1 @@
+/home/siddu/.config/zsh/.zprezto/runcoms/zshenv
