@@ -1,7 +1,14 @@
-local function lsp_progress()
+local function clock()
+  return "" .. os.date("%H:%M")
+end
+
+local function lsp_progress(self, is_active)
+  if not is_active then
+    return ""
+  end
   local messages = vim.lsp.util.get_progress_messages()
   if #messages == 0 then
-    return
+    return ""
   end
   local status = {}
   for _, msg in pairs(messages) do
@@ -13,19 +20,46 @@ local function lsp_progress()
   return table.concat(status, " | ") .. " " .. spinners[frame + 1]
 end
 
-require('lualine').setup{
-    options = {
-      theme = 'tokyonight',
-      icons_enabled = true,
-      section_separators = { "", "" },
-      component_separators = { "", "" },
-    },
-    sections = {
-        lualine_a = { "mode" },
-        lualine_b = { "branch" },
-        lualine_c = { { "diagnostics", sources = { "nvim_lsp" } }, "filename" },
-        lualine_x = { "filetype", lsp_progress },
-        lualine_y = { "progress" },
-    },
-    extensions = { "nvim-tree" }
+vim.cmd([[autocmd User LspProgressUpdate let &ro = &ro]])
+
+local config = {
+  options = {
+    theme = "tokyonight",
+    section_separators = { left = "", right = "" },
+    component_separators = { left = "", right = "" },
+    -- section_separators = { "", "" },
+    -- component_separators = { "", "" },
+    icons_enabled = true,
+  },
+  sections = {
+    lualine_a = { "mode" },
+    lualine_b = { "branch" },
+    lualine_c = { { "diagnostics", sources = { "nvim_lsp" } }, "filename" },
+    lualine_x = { "filetype", lsp_progress },
+    lualine_y = { "progress" },
+    lualine_z = { clock },
+  },
+  inactive_sections = {
+    lualine_a = {},
+    lualine_b = {},
+    lualine_c = {},
+    lualine_x = {},
+    lualine_y = {},
+    lualine_z = {},
+  },
+  extensions = { "nvim-tree" },
 }
+
+local M = {}
+
+function M.load()
+  require("lualine").setup(config)
+end
+
+M.load()
+
+-- vim.api.nvim_exec([[
+--   autocmd ColorScheme * lua require("config.lualine").load();
+-- ]], false)
+
+return M

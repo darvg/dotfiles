@@ -63,31 +63,57 @@ return packer.startup(
 
 
     -- completion
-    use {
-      "hrsh7th/nvim-compe",
+		use {
+      "rafamadriz/friendly-snippets",
       event = "InsertEnter",
-      opt = true,
+   	}
+
+   	use {
+      "hrsh7th/nvim-cmp",
+      after = "friendly-snippets",
       config = function()
-        require "lua.compe"
+         require "lua.compe"
       end,
-      requires = {
-        {
-          "L3MON4D3/LuaSnip",
-          wants = "friendly-snippets",
-          event = "InsertCharPre",
-        },
-        {
-          "rafamadriz/friendly-snippets",
-          event = "InsertCharPre"
-        },
-        {
-          "windwp/nvim-autopairs",
-          config = function()
-            require("lua.extra").autopairs()
-          end,
-        },
-      }
-    }
+   	}
+
+   	use {
+      "L3MON4D3/LuaSnip",
+      wants = "friendly-snippets",
+      after = "nvim-cmp",
+      config = function()
+         require("lua.extra").luasnip()
+      end,
+   	}
+
+   	use {
+      "saadparwaiz1/cmp_luasnip",
+      after = "LuaSnip",
+   	}
+
+   	use {
+      "hrsh7th/cmp-nvim-lua",
+      after = "cmp_luasnip",
+   	}
+
+   	use {
+      "hrsh7th/cmp-nvim-lsp",
+      after = "cmp-nvim-lua",
+   	}
+
+   	use {
+      "lukas-reineke/cmp-rg",
+      after = "cmp-nvim-lsp",
+   	}
+
+   	use {
+      "hrsh7th/cmp-path",
+      after = "cmp-rg",
+   	}
+
+   	use {
+    	"windwp/nvim-autopairs",
+      after = "nvim-cmp",
+   	}
 
     -- treesitter
     use {
@@ -130,9 +156,9 @@ return packer.startup(
 
     -- statusline
     use {
-      "hoob3rt/lualine.nvim",
+      "nvim-lualine/lualine.nvim",
       event = "VimEnter",
-      config = [[require('lua.lualine')]],
+			config = [[require('lua.lualine')]],
       wants = "nvim-web-devicons",
     }
 

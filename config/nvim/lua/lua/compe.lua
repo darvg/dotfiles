@@ -1,38 +1,93 @@
-local present, compe = pcall(require, "compe")
+local present, cmp = pcall(require, "cmp")
+
 if not present then
-    return
+   return
 end
 
-compe.setup {
-  enabled = true;
-  autocomplete = true;
-  debug = false;
-  min_length = 1;
-  preselect = 'enable';
-  throttle_time = 80;
-  source_timeout = 200;
-  resolve_timeout = 800;
-  incomplete_delay = 400;
-  max_abbr_width = 100;
-  max_kind_width = 100;
-  max_menu_width = 100;
-  documentation = {
-    border = { '', '' ,'', ' ', '', '', '', ' ' }, -- the border option is the same as `|help nvim_open_win|`
-    winhighlight = "NormalFloat:CompeDocumentation,FloatBorder:CompeDocumentationBorder",
-    max_width = 120,
-    min_width = 60,
-    max_height = math.floor(vim.o.lines * 0.3),
-    min_height = 1,
-  };
+vim.opt.completeopt = "menuone,noselect"
 
-  source = {
-    path = true;
-    buffer = true;
-    calc = true;
-    nvim_lsp = true;
-    nvim_lua = true;
-    vsnip = false;
-    ultisnips = false;
-    luasnip = true;
-  };
+-- nvim-cmp setup
+cmp.setup {
+   snippet = {
+      expand = function(args)
+         require("luasnip").lsp_expand(args.body)
+      end,
+   },
+   formatting = {
+      format = function(entry, vim_item)
+         vim_item.menu = ({
+	    rg = "rg",
+	    nvim_lsp = "LSP",
+	    nvim_lua = "Lua",
+	    Path = "Path",
+	    luasnip = "LuaSnip",
+	    orgmode = "Org",
+         })[entry.source.name]
+         vim_item.kind = ({
+            Text = "",
+            Method = "",
+            Function = "",
+            Constructor = "",
+            Field = "ﰠ",
+            Variable = "",
+            Class = "ﴯ",
+            Interface = "",
+            Module = "",
+            Property = "ﰠ",
+            Unit = "塞",
+            Value = "",
+            Enum = "",
+            Keyword = "",
+            Snippet = "",
+            Color = "",
+            File = "",
+            Reference = "",
+            Folder = "",
+            EnumMember = "",
+            Constant = "",
+            Struct = "פּ",
+            Event = "",
+            Operator = "",
+            TypeParameter = "",
+         })[vim_item.kind]
+         return vim_item
+      end,
+   },
+   mapping = {
+      ["<C-p>"] = cmp.mapping.select_prev_item(),
+      ["<C-n>"] = cmp.mapping.select_next_item(),
+      ["<C-d>"] = cmp.mapping.scroll_docs(-4),
+      ["<C-f>"] = cmp.mapping.scroll_docs(4),
+      ["<C-Space>"] = cmp.mapping.complete(),
+      ["<C-e>"] = cmp.mapping.close(),
+      ["<CR>"] = cmp.mapping.confirm {
+         behavior = cmp.ConfirmBehavior.Replace,
+         select = true,
+      },
+      ["<Tab>"] = function(fallback)
+         if cmp.visible() then
+            cmp.select_next_item()
+         elseif require("luasnip").expand_or_jumpable() then
+            vim.fn.feedkeys(vim.api.nvim_replace_termcodes("<Plug>luasnip-expand-or-jump", true, true, true), "")
+         else
+            fallback()
+         end
+      end,
+      ["<S-Tab>"] = function(fallback)
+         if cmp.visible() then
+             cmp.select_prev_item()
+         elseif require("luasnip").jumpable(-1) then
+            vim.fn.feedkeys(vim.api.nvim_replace_termcodes("<Plug>luasnip-jump-prev", true, true, true), "")
+         else
+            fallback()
+         end
+      end,
+   },
+   sources = {
+      { name = "nvim_lsp" },
+      { name = "luasnip" },
+      { name = "rg" },
+      { name = "nvim_lua" },
+      { name = "orgmode" },
+   },
 }

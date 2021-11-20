@@ -35,7 +35,7 @@ end
 M.autopairs = function ()
   local present1, autopairs = pcall(require, "nvim-autopairs")
   local present2, autopairs_completion = pcall(require, "nvim-autopairs.completion.compe")
-	
+
 	if not (present1 or present2) then
     return
 	end
@@ -47,6 +47,17 @@ M.autopairs = function ()
   })
 end
 
+M.luasnip = function()
+   local present, luasnip = pcall(require, "luasnip")
+   if not present then
+      return
+   end
 
+   luasnip.config.set_config {
+      history = true,
+      updateevents = "TextChanged,TextChangedI",
+   }
+   require("luasnip/loaders/from_vscode").load()
+end
 
 return M

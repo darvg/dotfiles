@@ -1,1 +1,0 @@
-/home/siddu/.config/zsh/.zprezto/runcoms/zlogout

@@ -36,8 +36,9 @@ opt.smartindent = true
 -- colors
 opt.termguicolors = true
 
--- opt.foldexpr = "nvim_treesitter#foldexpr()"
--- opt.foldmethod = "expr"
+cmd("au BufWinEnter * normal zR")
+opt.foldexpr = "nvim_treesitter#foldexpr()"
+opt.foldmethod = "expr"
 
 
 -- commands --
